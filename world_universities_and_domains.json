@@ -37970,12 +37970,14 @@
   },
   {
     "web_pages": [
+      "https://www.tuni.fi",
       "http://www.uta.fi/"
     ],
-    "name": "University of Tampere",
+    "name": "Tampere University",
     "alpha_two_code": "FI",
     "state-province": null,
     "domains": [
+      "tuni.fi",
       "uta.fi"
     ],
     "country": "Finland"
@@ -117823,5 +117825,257 @@
       "iitbbs.ac.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.hochschule-rhein-waal.de/"
+    ],
+    "name": "Hochschule Rhein-Waal",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hochschule-rhein-waal.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://fpno.edu.ng/"
+    ],
+    "name": "Federal Polytechnic Nekede",
+    "alpha_two_code": "NG",
+    "state-province": null,
+    "domains": [
+      "fpno.edu.ng"
+    ],
+    "country": "Nigeria"
+  },
+  {
+    "web_pages": [
+      "https://www.up.ac.za"
+    ],
+    "name": "University of Pretoria",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "up.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "https://lpnu.ua"
+    ],
+    "name": "Lviv Polytechnic National University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "lpnu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://drsneuwied.de"
+    ],
+    "name": "David Roentgen Schule",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "drsneuwied.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://ufsb.edu.br"
+    ],
+    "name": "Federal University of Southern Bahia",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ufsb.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.he2b.be"
+    ],
+    "name": "Haute École Bruxelles-Brabant",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "he2b.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.atlas.edu.tr/tr/"
+    ],
+    "name": "Atlas University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "atlas.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.nshm.com"
+    ],
+    "name": "NSHM Knowledge Campus",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nshm.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-kl.de"
+    ],
+    "name": "Hochschule Kaiserslautern",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "nhs-kl.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.epitech.eu/digital/"
+    ],
+    "name": "Epitech Digital",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "supinternet.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://bbs-papenburg.de/index/"
+    ],
+    "name": "Berufsbildende Schulen Papenburg Technik und Wirtschaft",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "bbs-papenburg.eu"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.wojsko-polskie.pl/wat/en/"
+    ],
+    "name": "Military University of Technology",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "wat.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.srec.ac.in"
+    ],
+    "name": "Sri Ramakrishna Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srec.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.uet.edu.pk"
+    ],
+    "name": "University of Engineering and Technology, Lahore",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "uet.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://lahore.comsats.edu.pk/"
+    ],
+    "name": "COMSATS University Islamabad",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "cuilahore.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.nmit.ac.in"
+    ],
+    "name": "Nitte Meenakshi Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nitte.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.kuleuven.be"
+    ],
+    "name": "KU Leuven",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "kuleuven.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.ntub.edu.tw"
+    ],
+    "name": "National Taipei University of Business",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "ntub.edu.tw"
+    ],
+    "country": "Taiwan"
+  },
+  {
+    "web_pages": [
+      "https://www.jamk.fi"
+    ],
+    "name": "Jamk University of Applied Sciences",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "jamk.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "https://bit.bf"
+    ],
+    "name": "Burkina Institute of Technology",
+    "alpha_two_code": "BF",
+    "state-province": null,
+    "domains": [
+      "bit.bf"
+    ],
+    "country": "Burkina Faso"
   }
 ]
