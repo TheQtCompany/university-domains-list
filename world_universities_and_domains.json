@@ -13,16 +13,16 @@
   },
   {
     "web_pages": [
-    "https://www.upes.ac.in/"
+      "https://www.upes.ac.in/"
     ],
     "name": "University of Petroleum and Energy Studies",
     "alpha_two_code": "IN",
     "state-province": "Dehradun",
     "domains": [
-    "upes.ac.in"
+      "upes.ac.in"
     ],
     "country": "India"
-    },
+  },
   {
     "web_pages": [
       "https://www.cstj.qc.ca",
@@ -13083,7 +13083,7 @@
     "alpha_two_code": "US",
     "state-province": "Pennsylvania",
     "domains": [
-        "upb.pitt.edu"
+      "upb.pitt.edu"
     ],
     "country": "United States"
   },
@@ -16281,7 +16281,7 @@
     ],
     "name": "Universidad Atlantida Argentina",
     "alpha_two_code": "AR",
-    "state-province":  "Buenos Aires" ,
+    "state-province": "Buenos Aires",
     "domains": [
       "atlantida.edu.ar"
     ],
@@ -22685,7 +22685,7 @@
     ],
     "country": "Brazil"
   },
-   {
+  {
     "web_pages": [
       "https://www.ufsj.edu.br/"
     ],
@@ -38019,11 +38019,15 @@
     "country": "Finland"
   },
   {
-    "web_pages": ["https://www.metropolia.fi/"],
+    "web_pages": [
+      "https://www.metropolia.fi/"
+    ],
     "name": "Metropolia University of Applied Sciences",
     "alpha_two_code": "FI",
     "state-province": null,
-    "domains": ["metropolia.fi"],
+    "domains": [
+      "metropolia.fi"
+    ],
     "country": "Finland"
   },
   {
@@ -71263,8 +71267,8 @@
     ],
     "country": "Malawi"
   },
-    {
-      "web_pages": [
+  {
+    "web_pages": [
       "http://www.unima.mw/"
     ],
     "name": "University of Malawi | Old",
@@ -71274,8 +71278,8 @@
       "unima.mw"
     ],
     "country": "Malawi"
-    },
-    {
+  },
+  {
     "web_pages": [
       "http://www.acms.edu.my/"
     ],
@@ -117738,7 +117742,7 @@
     "alpha_two_code": "FI",
     "state-province": null,
     "domains": [
-        "hamk.fi"
+      "hamk.fi"
     ],
     "country": "Finland"
   },
@@ -117828,7 +117832,8 @@
   },
   {
     "web_pages": [
-      "https://www.hochschule-rhein-waal.de/"
+      "https://www.hochschule-rhein-waal.de/",
+      "https://hsrw.org/"
     ],
     "name": "Hochschule Rhein-Waal",
     "alpha_two_code": "DE",
@@ -118077,5 +118082,257 @@
       "bit.bf"
     ],
     "country": "Burkina Faso"
+  },
+  {
+    "web_pages": [
+      "http://www.aait.edu.et"
+    ],
+    "name": "Addis Ababa Institute of Technology",
+    "alpha_two_code": "ET",
+    "state-province": null,
+    "domains": [
+      "aait.edu.et"
+    ],
+    "country": "Ethiopia"
+  },
+  {
+    "web_pages": [
+      "https://seecs.nust.edu.pk"
+    ],
+    "name": "School of Electrical Engineering and Computer Science, NUST",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "seecs.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://rvce.edu.in"
+    ],
+    "name": "R. V. College Of Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "rvce.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.uab.cat/"
+    ],
+    "name": "Universitat Autonoma de Barcelona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uab.cat"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://esprit.tn"
+    ],
+    "name": "ESPRIT",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "esprit.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://paruluniversity.ac.in"
+    ],
+    "name": "Parul University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "paruluniversity.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.oist.jp"
+    ],
+    "name": "Okinawa Institute of Science and Technology",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "oist.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://ifms.edu.br"
+    ],
+    "name": "Instituto Federal de Mato Grosso do Sul",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ifms.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https: //www.cu.ac.kr/"
+    ],
+    "name": "Daegu Catholic University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "cu.ac.kr"
+    ],
+    "country": "Korea"
+  },
+  {
+    "web_pages": [
+      "https://www.sggw.edu.pl/"
+    ],
+    "name": "Warsaw University of Life Sciences",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "sggw.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.pau.edu.tr"
+    ],
+    "name": "Pamukkale University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "pau.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://uam.edu.ni"
+    ],
+    "name": "La Universidad Americana (UAM)",
+    "alpha_two_code": "NI",
+    "state-province": null,
+    "domains": [
+      "uam.edu.ni"
+    ],
+    "country": "Nicaragua"
+  },
+  {
+    "web_pages": [
+      "https://www.ravensburg.dhbw.de"
+    ],
+    "name": "Ravensburg University of Cooperative Education",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "ravensburg.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.ripleyacademy.org"
+    ],
+    "name": "The Ripley Academy",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "ripleyacademy.org"
+    ],
+    "country": "England"
+  },
+  {
+    "web_pages": [
+      "https://www.ovgu.de/"
+    ],
+    "name": "Otto von Guericke University Magdeburg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "ovgu.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://enetcom.rnu.tn/"
+    ],
+    "name": "ENET'Com",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "enetcom.usf.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://www.uca.ma"
+    ],
+    "name": "Cadi Ayyad University",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "uca.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "https://kbfi.ee"
+    ],
+    "name": "National Institute of Chemical Physics and Biophysics",
+    "alpha_two_code": "EE",
+    "state-province": null,
+    "domains": [
+      "kbfi.ee"
+    ],
+    "country": "Estonia"
+  },
+  {
+    "web_pages": [
+      "https://www.upstate.edu"
+    ],
+    "name": "State University of New York (SUNY) Upstate Medical University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "upstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.amw.gdynia.pl"
+    ],
+    "name": "Polish Naval Academy",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "amw.gdynia.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.eduvos.com"
+    ],
+    "name": "Eduvos",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "eduvos.com"
+    ],
+    "country": "South Africa"
   }
 ]
