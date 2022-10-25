@@ -117832,14 +117832,14 @@
   },
   {
     "web_pages": [
-      "https://www.hochschule-rhein-waal.de/",
-      "https://hsrw.org/"
+      "https://www.hochschule-rhein-waal.de/"
     ],
     "name": "Hochschule Rhein-Waal",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "hochschule-rhein-waal.de"
+      "hochschule-rhein-waal.de",
+      "hsrw.org"
     ],
     "country": "Germany"
   },
