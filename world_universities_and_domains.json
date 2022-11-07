@@ -118241,18 +118241,6 @@
   },
   {
     "web_pages": [
-      "https://www.ripleyacademy.org"
-    ],
-    "name": "The Ripley Academy",
-    "alpha_two_code": "GB",
-    "state-province": null,
-    "domains": [
-      "ripleyacademy.org"
-    ],
-    "country": "England"
-  },
-  {
-    "web_pages": [
       "https://www.ovgu.de/"
     ],
     "name": "Otto von Guericke University Magdeburg",
@@ -118334,5 +118322,509 @@
       "eduvos.com"
     ],
     "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "https://vit.ac.in"
+    ],
+    "name": "Vellore Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.fhws.de"
+    ],
+    "name": "University of Applied Sciences Würzburg-Schweinfurt",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "fhws.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.tecnm.mx"
+    ],
+    "name": "National Technological Institute of Mexico",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "tecnm.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.open.ac.uk"
+    ],
+    "name": "Open University",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "http://www.iitkgp.ac.in"
+    ],
+    "name": "Indian Institute of Technology Kharagpur",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iitkgp.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.ac-nancy-metz.fr"
+    ],
+    "name": "Académie de Nancy-Metz",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-nancy-metz.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.bkgl.de"
+    ],
+    "name": "Berufskolleg Bergisch Gladbach",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "bkgl.nrw.schule"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-aalen.de"
+    ],
+    "name": "Hochschule Aalen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-aalen.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.uabc.mx"
+    ],
+    "name": "Autonomous University of Baja California",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uabc.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.zsk.poznan.pl"
+    ],
+    "name": "Zespół Szkół im. Hipolita Cegielskiego w Poznaniu",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "zsk.poznan.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.rp.edu.sg"
+    ],
+    "name": "Republic Polytechnic",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://wsei.edu.pl"
+    ],
+    "name": "Wyższa Szkoła Ekonomii i Informatyki w Krakowie",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "wsei.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://en.sharif.edu"
+    ],
+    "name": "Sharif University of Technology",
+    "alpha_two_code": "IR",
+    "state-province": null,
+    "domains": [
+      "sharif.edu"
+    ],
+    "country": "Iran"
+  },
+  {
+    "web_pages": [
+      "https://www.douglascollege.ca"
+    ],
+    "name": "Douglas College",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "douglascollege.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://portal.ifrn.edu.br"
+    ],
+    "name": "Instituto Federal do Rio Grande do Norte",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ifrn.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://en.u-bourgogne.fr"
+    ],
+    "name": "University of Burgundy",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "u-bourgogne.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.umcs.pl"
+    ],
+    "name": "Maria Curie-Skłodowska University",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "umcs.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://usm.cl"
+    ],
+    "name": "Federico Santa María Technical University",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "usm.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.thomasmore.be"
+    ],
+    "name": "Thomas More",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "thomasmore.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.pxl.be"
+    ],
+    "name": "Hogeschool PXL",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "pxl.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.tgm.ac.at"
+    ],
+    "name": "tgm Die Schule der Technik",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "tgm.ac.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://www.iuc.edu.tr"
+    ],
+    "name": "Istanbul University - Cerrahpaşa",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "iuc.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.hshl.de"
+    ],
+    "name": "Hamm-Lippstadt University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hshl.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://iem.edu.in"
+    ],
+    "name": "Institute of Engineering and Management",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iem.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.ukm.my"
+    ],
+    "name": "National University of Malaysia",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": [
+      "ukm.edu.my"
+    ],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": [
+      "https://www.sutd.edu.sg"
+    ],
+    "name": "Singapore University of Technology and Design",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "sutd.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://iutcm.edu.ve"
+    ],
+    "name": "Instituto Universitario de Tecnología Dr. Cristóbal Mendoza",
+    "alpha_two_code": "VE",
+    "state-province": null,
+    "domains": [
+      "iutcm.edu.ve"
+    ],
+    "country": "Venezuela"
+  },
+  {
+    "web_pages": [
+      "https://portal.ifba.edu.br"
+    ],
+    "name": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ifba.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.uom.gr"
+    ],
+    "name": "University of Macedonia",
+    "alpha_two_code": "GR",
+    "state-province": null,
+    "domains": [
+      "uom.edu.gr"
+    ],
+    "country": "Greece"
+  },
+  {
+    "web_pages": [
+      "https://www.tilburguniversity.edu"
+    ],
+    "name": "Tilburg University",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "tilburguniversity.edu"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
+      "https://www.udn.vn"
+    ],
+    "name": "Da Nang University of Science and Technology",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "udn.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.griffith.ie"
+    ],
+    "name": "Griffith College",
+    "alpha_two_code": "IE",
+    "state-province": null,
+    "domains": [
+      "griffith.ie"
+    ],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "https://ufrn.br"
+    ],
+    "name": "Federal University of Rio Grande do Norte",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ufrn.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.uca.fr"
+    ],
+    "name": "Clermont Auvergne University",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "uca.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.fh-swf.de"
+    ],
+    "name": "Fachhochschule Südwestfalen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "fh-swf.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.bridgew.edu"
+    ],
+    "name": "Bridgewater State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bridgew.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ncl.ac.uk"
+    ],
+    "name": "Newcastle University",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "newcastle.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.rajalakshmi.org"
+    ],
+    "name": "Rajalakshmi Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "rajalakshmi.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://karazin.ua"
+    ],
+    "name": "National University of Kharkiv",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "karazin.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://portal.uab.pt"
+    ],
+    "name": "Universidade Aberta",
+    "alpha_two_code": "PT",
+    "state-province": null,
+    "domains": [
+      "uab.pt"
+    ],
+    "country": "Portugal"
+  },
+  {
+    "web_pages": [
+      "https://sciences.edu.umontpellier.fr"
+    ],
+    "name": "Faculté des Sciences de Montpellier",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "umontpellier.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://srmap.edu.in"
+    ],
+    "name": "SRM University, Andhra Pradesh",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srmap.edu.in"
+    ],
+    "country": "India"
   }
 ]
