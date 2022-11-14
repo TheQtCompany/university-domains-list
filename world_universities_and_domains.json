@@ -118826,5 +118826,197 @@
       "srmap.edu.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.stu.edu.vn"
+    ],
+    "name": "Saigon Technology University",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "stu.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.ihu.gr"
+    ],
+    "name": "International Hellenic University",
+    "alpha_two_code": "GR",
+    "state-province": null,
+    "domains": [
+      "ihu.gr"
+    ],
+    "country": "Greece"
+  },
+  {
+    "web_pages": [
+      "http://moderncoe.edu.in"
+    ],
+    "name": "PES Modern College of Engineering, Pune",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "moderncoe.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.hochschule-stralsund.de"
+    ],
+    "name": "Hochschule Stralsund",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hochschule-stralsund.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.wb-fernstudium.de"
+    ],
+    "name": "Wilhelm Büchner Hochschule",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "wb-fernstudium.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.asu.edu.eg"
+    ],
+    "name": "Ain Shams University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "asu.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://w.prz.edu.pl"
+    ],
+    "name": "Rzeszów University of Technology",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "prz.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-emden-leer.de"
+    ],
+    "name": "Hochschule Emden/Leer",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-emden-leer.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.pict.edu"
+    ],
+    "name": "Pune Institute of Computer Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "pict.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://sbccd.edu"
+    ],
+    "name": "San Bernardino Community College District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "sbccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.dtu.ac.in"
+    ],
+    "name": "Delhi Technological University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "dtu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://sta.uwi.edu"
+    ],
+    "name": "University of the West Indies at St. Augustine",
+    "alpha_two_code": "TT",
+    "state-province": null,
+    "domains": [
+      "uwi.edu"
+    ],
+    "country": "Trinidad and Tobago"
+  },
+  {
+    "web_pages": [
+      "https://www.nhlstenden.com"
+    ],
+    "name": "NHL Stenden University of Applied Sciences",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "nhlstenden.com"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
+      "https://www.htwsaar.de"
+    ],
+    "name": "Hochschule für Technik und Wirtschaft des Saarlandes",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "htwsaar.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.ue.wroc.pl"
+    ],
+    "name": "Wrocław University of Economics and Business",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "ue.wroc.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.dlsl.edu.ph"
+    ],
+    "name": "De La Salle Lipa",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "dlsl.edu.ph"
+    ],
+    "country": "Philippines"
   }
 ]
