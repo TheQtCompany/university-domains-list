@@ -92084,7 +92084,7 @@
     "web_pages": [
       "http://www.vssvalzbety.sk/"
     ],
-    "name": "St. Elizabeth’s College of Health and Social Sciences in Bratislava",
+    "name": "St. Elizabeth's College of Health and Social Sciences in Bratislava",
     "alpha_two_code": "SK",
     "state-province": null,
     "domains": [
@@ -119018,5 +119018,521 @@
       "dlsl.edu.ph"
     ],
     "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.cnam.fr"
+    ],
+    "name": "Conservatoire national des arts et métiers",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "cnam.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.hochschule-ruhr-west.de"
+    ],
+    "name": "Hochschule Ruhr West",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-ruhrwest.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.dsw.edu.pl"
+    ],
+    "name": "University of Lower Silesia",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "dsw.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-merseburg.de/"
+    ],
+    "name": "Merseburg University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-merseburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.ozyegin.edu.tr"
+    ],
+    "name": "Özyeğin University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "ozyegin.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.tut.ac.za"
+    ],
+    "name": "Tshwane University of Technology",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "tut.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "https://sairam.edu.in"
+    ],
+    "name": "Sri Sai Ram Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "sairam.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.junia.com"
+    ],
+    "name": "JUNIA, graduate school of science and engineering",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "junia.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.marmara.edu.tr"
+    ],
+    "name": "Marmara University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "marmara.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.ifsudestemg.edu.br"
+    ],
+    "name": "IF Sudeste MG",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ifsudestemg.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.unistra.fr"
+    ],
+    "name": "University of Strasbourg",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "unistra.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://yoobee.ac.nz"
+    ],
+    "name": "Yoobee College",
+    "alpha_two_code": "NZ",
+    "state-province": null,
+    "domains": [
+      "yoobee.ac.nz"
+    ],
+    "country": "New Zealand"
+  },
+  {
+    "web_pages": [
+      "https://www.fh-ooe.at"
+    ],
+    "name": "University of Applied Sciences Upper Austria",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "fh-ooe.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://www.ccm.edu"
+    ],
+    "name": "County College of Morris",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ccm.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.thu.de"
+    ],
+    "name": "Technische Hochschule Ulm",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "thu.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://english.ncepu.edu.cn"
+    ],
+    "name": "North China Electric Power University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ncepu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.sysu.edu.cn"
+    ],
+    "name": "Sun Yat-sen University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "sysu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cqust.edu.cn"
+    ],
+    "name": "ChongQing University of Science & Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cqust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.lut.edu.cn"
+    ],
+    "name": "Lanzhou University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "lut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.huat.edu.cn"
+    ],
+    "name": "Hubei University of Automotive Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "huat.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.xust.edu.cn"
+    ],
+    "name": "Xi'An University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "xust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.hunangy.com"
+    ],
+    "name": "Hunan Industry Polytechnic",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hunangy.com"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.wust.edu.cn"
+    ],
+    "name": "Wuhan University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "wust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.zisu.edu.cn"
+    ],
+    "name": "ZheJiang International Studies University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "zisu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://whut.edu.cn"
+    ],
+    "name": "Wuhan University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "whut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.hnu.edu.cn"
+    ],
+    "name": "HuNan University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hnu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.qqhru.edu.cn"
+    ],
+    "name": "QiQiHar University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "qqhru.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.xmut.edu.cn"
+    ],
+    "name": "Xiamen University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "xmut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.wzvtc.cn"
+    ],
+    "name": "WenZhou Polytechnic",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "wzvtc.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.xiyou.edu.cn"
+    ],
+    "name": "Xi'An University of Posts & Telecommunications",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "xiyou.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://cityu.edu.mo"
+    ],
+    "name": "City University of Macau",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cityu.edu.mo"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.bjut.edu.cn"
+    ],
+    "name": "Beijing University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "bjut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.gdaib.edu.cn"
+    ],
+    "name": "Guangdong AIB Polytechnic",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "gdaib.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.zzu.edu.cn"
+    ],
+    "name": "Zhengzhou University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "zzu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.hdu.edu.cn"
+    ],
+    "name": "Hangzhou Dianzi University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hdu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "www.ygu.edu.cn"
+    ],
+    "name": "Yanggo University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ygu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.ahjzu.edu.cn"
+    ],
+    "name": "AnHui Jianzhu University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ahjzu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.zjvtit.edu.cn"
+    ],
+    "name": "ZheJiang Institute of Communications",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "zjvtit.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.czu.edu.cn"
+    ],
+    "name": "Cizhou University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "czu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://english.wtu.edu.cn"
+    ],
+    "name": "Wuhan Textile University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "wtu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.gdou.edu.cn"
+    ],
+    "name": "Guangdong Ocean University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "gdou.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.chd.edu.cn"
+    ],
+    "name": "Chang'An University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "chd.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://net.ncepu.edu.cn"
+    ],
+    "name": "North China Electric Power Univeristy",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ncepu.edu.cn"
+    ],
+    "country": "China"
   }
 ]
