@@ -119534,5 +119534,197 @@
       "ncepu.edu.cn"
     ],
     "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.umfst.ro"
+    ],
+    "name": "University of Medicine, Pharmacy, Science and Technology of Târgu Mureș",
+    "alpha_two_code": "RO",
+    "state-province": null,
+    "domains": [
+      "umfst.ro"
+    ],
+    "country": "Romania"
+  },
+  {
+    "web_pages": [
+      "https://www.ulp.pt"
+    ],
+    "name": "Universidade Lusófona do Porto",
+    "alpha_two_code": "PT",
+    "state-province": null,
+    "domains": [
+      "ulp.pt"
+    ],
+    "country": "Portugal"
+  },
+  {
+    "web_pages": [
+      "https://www.uanl.mx"
+    ],
+    "name": "Autonomous University of Nuevo León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uanl.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.haw-hamburg.de"
+    ],
+    "name": "Hamburg University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "haw-hamburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://uhs.edu.kh"
+    ],
+    "name": "University of Health Sciences (Cambodia)",
+    "alpha_two_code": "KH",
+    "state-province": null,
+    "domains": [
+      "uhs.edu.kh"
+    ],
+    "country": "Cambodia"
+  },
+  {
+    "web_pages": [
+      "https://www.reutlingen-university.de"
+    ],
+    "name": "Reutlingen University",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "reutlingen-university.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://pbs.edu.pl"
+    ],
+    "name": "Bydgoszcz University of Science and Technology",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "pbs.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.jade-hs.de"
+    ],
+    "name": "Jade University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "jade-hs.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://umkt.ac.id"
+    ],
+    "name": "Universitas Muhammadiyah Kalimantan Timur",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "umkt.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "http://kntu.net.ua"
+    ],
+    "name": "Kherson National Technical University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "kntu.net.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.eah-jena.de"
+    ],
+    "name": "Ernst-Abbe-Hochschule Jena",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "eah-jena.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.cit.edu"
+    ],
+    "name": "Cebu Institute of Technology – University",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "cit.edu"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.hbut.edu.cn"
+    ],
+    "name": "Hubei University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hbut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.sspu.edu.cn"
+    ],
+    "name": "Shanghai Polytechnic University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "sspu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.guet.edu.cn"
+    ],
+    "name": "Guilin University Of Electronic Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "guet.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://nsu.edu.cn"
+    ],
+    "name": "Chengdu Neusoft University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "nsu.edu.cn"
+    ],
+    "country": "China"
   }
 ]
