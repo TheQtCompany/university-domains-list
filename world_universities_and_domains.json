@@ -99144,7 +99144,8 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "marmara.edu.tr"
+      "marmara.edu.tr",
+      "marun.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -119726,5 +119727,294 @@
       "nsu.edu.cn"
     ],
     "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.lincoln.edu"
+    ],
+    "name": "Lincoln University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lincolnu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.elisa-aerospace.fr"
+    ],
+    "name": "ELISA Aerospace",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "elisa-aerospace.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.ua.edu.lb/"
+    ],
+    "name": "Antonine University",
+    "alpha_two_code": "LB",
+    "state-province": null,
+    "domains": [
+      "ua.edu.lb"
+    ],
+    "country": "Lebanon"
+  },
+  {
+    "web_pages": [
+      "http://en.pollub.pl"
+    ],
+    "name": "Lublin University of Technology",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "pollub.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://vit.edu.in"
+    ],
+    "name": "Vidyalankar Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vit.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.frankfurt-university.de"
+    ],
+    "name": "Frankfurt University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "frankfurt-university.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.urv.cat"
+    ],
+    "name": "University of Rovira i Virgili",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "urv.cat"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.thapar.edu"
+    ],
+    "name": "Thapar Institute of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "thapar.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.tum.de"
+    ],
+    "name": "Technical University of Munich",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "tum.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://nuaca.am"
+    ],
+    "name": "National University of Architecture and Construction of Armenia",
+    "alpha_two_code": "AM",
+    "state-province": null,
+    "domains": [
+      "nuaca.am"
+    ],
+    "country": "Armenia"
+  },
+  {
+    "web_pages": [
+      "https://hs-flensburg.de"
+    ],
+    "name": "Flensburg University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-flensburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://nubip.edu.ua"
+    ],
+    "name": "National University of Life and Environmental Sciences of Ukraine",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "nubip.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.th-nuernberg.de"
+    ],
+    "name": "Technische Hochschule Nürnberg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "th-nuernberg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://anstar.edu.pl"
+    ],
+    "name": "State Higher Vocational School in Tarnow",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "anstar.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.oth-regensburg.de/"
+    ],
+    "name": "Regensburg University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "oth-regensburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.umk.pl"
+    ],
+    "name": "Nicolaus Copernicus University in Toruń",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "umk.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.umanitoba.ca"
+    ],
+    "name": "University of Manitoba",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "umanitoba.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://heig-vd.ch/"
+    ],
+    "name": "School of Business and Engineering Vaud",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "heig-vd.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "https://web.umons.ac.be"
+    ],
+    "name": "University of Mons",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "umons.ac.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.srmist.edu.in"
+    ],
+    "name": "SRM Institute of Science and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srmist.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.chnu.edu.ua/"
+    ],
+    "name": "Chernivtsi University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "chnu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.nitk.ac.in"
+    ],
+    "name": "National Institute of Technology Karnataka",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nitk.ac.in",
+      "nitk.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.sakarya.edu.tr"
+    ],
+    "name": "Sakarya University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "sakarya.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.tu-braunschweig.de"
+    ],
+    "name": "Technical University of Braunschweig",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "tu-braunschweig.de"
+    ],
+    "country": "Germany"
   }
 ]
