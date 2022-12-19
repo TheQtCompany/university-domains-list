@@ -120016,5 +120016,149 @@
       "tu-braunschweig.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.eniso.rnu.tn"
+    ],
+    "name": "National Engineering School of Sousse",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "eniso.u-sousse.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://www.pucgoias.edu.br"
+    ],
+    "name": "Pontifical Catholic University of Goiás",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "pucgoias.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://iisc.ac.in"
+    ],
+    "name": "Indian Institute of Science",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iisc.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.usn.no"
+    ],
+    "name": "University of South-Eastern Norway",
+    "alpha_two_code": "NO",
+    "state-province": null,
+    "domains": [
+      "usn.no"
+    ],
+    "country": "Norway"
+  },
+  {
+    "web_pages": [
+      "https://www.ostimteknik.edu.tr"
+    ],
+    "name": "Ostim Technical University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "ostimteknik.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.th-rosenheim.de"
+    ],
+    "name": "Rosenheim University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "th-rosenheim.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://upt.ro"
+    ],
+    "name": "Politehnica University of Timișoara",
+    "alpha_two_code": "RO",
+    "state-province": null,
+    "domains": [
+      "upt.ro"
+    ],
+    "country": "Romania"
+  },
+  {
+    "web_pages": [
+      "https://vnuf.edu.vn"
+    ],
+    "name": "Vietnam National University of Forestry",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "vnuf.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.iu.de"
+    ],
+    "name": "International University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "iubh.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.bhcc.edu"
+    ],
+    "name": "Bunker Hill Community College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bhcc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.mubas.ac.mw"
+    ],
+    "name": "Malawi University of Business and Applied Sciences",
+    "alpha_two_code": "MW",
+    "state-province": null,
+    "domains": [
+      "mubas.ac.mw"
+    ],
+    "country": "Malawi"
+  },
+  {
+    "web_pages": [
+      "https://www.chitkara.edu.in"
+    ],
+    "name": "Chitkara University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "chitkara.edu.in"
+    ],
+    "country": "India"
   }
 ]
