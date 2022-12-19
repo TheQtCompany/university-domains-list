@@ -71239,6 +71239,7 @@
     "alpha_two_code": "MW",
     "state-province": null,
     "domains": [
+      "poly.ac.mw",
       "mubas.ac.mw"
     ],
     "country": "Malawi"
@@ -120136,18 +120137,6 @@
       "bhcc.edu"
     ],
     "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.mubas.ac.mw"
-    ],
-    "name": "Malawi University of Business and Applied Sciences",
-    "alpha_two_code": "MW",
-    "state-province": null,
-    "domains": [
-      "mubas.ac.mw"
-    ],
-    "country": "Malawi"
   },
   {
     "web_pages": [
