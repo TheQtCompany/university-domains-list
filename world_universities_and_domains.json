@@ -120149,5 +120149,113 @@
       "chitkara.edu.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.msijanakpuri.com"
+    ],
+    "name": "Maharaja Surajmal Institute",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "msijanakpuri.com"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.42nice.fr"
+    ],
+    "name": "Ecole 42 Nice",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "42nice.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-pforzheim.de"
+    ],
+    "name": "Pforzheim University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-pforzheim.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.lycee-newton.fr"
+    ],
+    "name": "Lycée Newton-ENREA",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-versailles.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.bmsce.ac.in"
+    ],
+    "name": "B.M.S. Institute of Technology and Management",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bmsce.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.groupe-gema.com"
+    ],
+    "name": "Groupe GEMA",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "groupe-gema.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.istanbul.edu.tr"
+    ],
+    "name": "Istanbul University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "istanbul.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://pnc.ac.id"
+    ],
+    "name": "Politeknik Negeri Cilacap",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "pnc.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://vit.ac.in"
+    ],
+    "name": "Vellore Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vit.ac.in"
+    ],
+    "country": "India"
   }
 ]
