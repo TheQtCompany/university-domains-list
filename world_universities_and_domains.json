@@ -120257,5 +120257,161 @@
       "vit.ac.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://gtu.ge"
+    ],
+    "name": "Georgian Technical University",
+    "alpha_two_code": "GE",
+    "state-province": null,
+    "domains": [
+      "gtu.ge"
+    ],
+    "country": "Georgia"
+  },
+  {
+    "web_pages": [
+      "https://ncit.edu.np"
+    ],
+    "name": "Nepal College of Information Technology",
+    "alpha_two_code": "NP",
+    "state-province": null,
+    "domains": [
+      "ncit.edu.np"
+    ],
+    "country": "Nepal"
+  },
+  {
+    "web_pages": [
+      "https://www.damanhour.edu.eg"
+    ],
+    "name": "Damanhour University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "dmu.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://www.istun.edu.tr"
+    ],
+    "name": "Istanbul Health and Technology University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "istun.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://uom.lk"
+    ],
+    "name": "University of Moratuwa",
+    "alpha_two_code": "LK",
+    "state-province": null,
+    "domains": [
+      "uom.lk"
+    ],
+    "country": "Sri Lanka"
+  },
+  {
+    "web_pages": [
+      "https://iittp.ac.in"
+    ],
+    "name": "IIT Tirupati",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iittp.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.kab.ac.ug"
+    ],
+    "name": "Kabale University",
+    "alpha_two_code": "UG",
+    "state-province": null,
+    "domains": [
+      "kab.ac.ug"
+    ],
+    "country": "Uganda"
+  },
+  {
+    "web_pages": [
+      "https://www.inn.no"
+    ],
+    "name": "Inland Norway University of Applied Sciences",
+    "alpha_two_code": "NO",
+    "state-province": null,
+    "domains": [
+      "inn.no"
+    ],
+    "country": "Norway"
+  },
+  {
+    "web_pages": [
+      "https://dpcoepune.edu.in"
+    ],
+    "name": "Dhole Patil College of Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "dpcoepune.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://vitap.ac.in"
+    ],
+    "name": "VIT-AP University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vitap.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.univ.kiev.ua"
+    ],
+    "name": "Taras Shevchenko National University of Kyiv",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "knu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.iiit.ac.in"
+    ],
+    "name": "International Institute of Information Technology, Hyderabad",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iiit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.vnsgu.ac.in"
+    ],
+    "name": "Veer Narmad South Gujarat University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vnsgu.ac.in"
+    ],
+    "country": "India"
   }
 ]
