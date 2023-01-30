@@ -17833,7 +17833,8 @@
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
-      "newcastle.edu.au"
+      "newcastle.edu.au",
+      "uon.edu.au"
     ],
     "country": "Australia"
   },
@@ -119773,7 +119774,8 @@
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "pollub.pl"
+      "pollub.pl",
+      "pollub.edu.pl"
     ],
     "country": "Poland"
   },
@@ -120413,5 +120415,329 @@
       "vnsgu.ac.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.enit.rnu.tn"
+    ],
+    "name": "National Engineering School of Tunis",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "enit.utm.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://www.viit.ac.in"
+    ],
+    "name": "Vishwakarma Institute of Information Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "viit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://uniri.hr"
+    ],
+    "name": "University of Rijeka",
+    "alpha_two_code": "HR",
+    "state-province": null,
+    "domains": [
+      "uniri.hr"
+    ],
+    "country": "Croatia"
+  },
+  {
+    "web_pages": [
+      "https://cust.edu.pk"
+    ],
+    "name": "Capital University of Science & Technology",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "cust.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://knute.edu.ua"
+    ],
+    "name": "Kyiv National University of Trade and Economics",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "knute.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.dsu.edu.in"
+    ],
+    "name": "Dayananda Sagar University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "dsu.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://unemat.br"
+    ],
+    "name": "Mato Grosso State University",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "unemat.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.kamk.fi"
+    ],
+    "name": "Kajaani University of Applied Sciences",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "kamk.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "https://www.uit.ac.ma"
+    ],
+    "name": "Université Ibn Tofail",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "uit.ac.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "https://www.bitsathy.ac.in"
+    ],
+    "name": "Bannari Amman Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bitsathy.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.svce.ac.in"
+    ],
+    "name": "Sri Venkateswara College of Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "svce.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.mountunion.edu"
+    ],
+    "name": "University of Mount Union",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mountunion.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.kocaeli.edu.tr"
+    ],
+    "name": "Kocaeli University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "kocaeli.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://upb.ro"
+    ],
+    "name": "Politehnica University of Bucharest",
+    "alpha_two_code": "RO",
+    "state-province": null,
+    "domains": [
+      "upb.ro"
+    ],
+    "country": "Romania"
+  },
+  {
+    "web_pages": [
+      "https://www.univ-tlse3.fr"
+    ],
+    "name": "Toulouse III - Paul Sabatier University",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "univ-tlse3.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://vntu.edu.ua"
+    ],
+    "name": "Vinnytsia National Technical University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "vntu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.jbnu.ac.kr"
+    ],
+    "name": "Jeonbuk National University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "jbnu.ac.kr"
+    ],
+    "country": "South Korea"
+  },
+  {
+    "web_pages": [
+      "https://www.skasc.ac.in"
+    ],
+    "name": "Sri Krishna Arts and Science College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "skacas.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.saxion.edu"
+    ],
+    "name": "Saxion University of Applied Sciences",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "saxion.nl"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
+      "https://www.uni-graz.at"
+    ],
+    "name": "University of Graz",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "uni-graz.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://makautwb.ac.in"
+    ],
+    "name": "Maulana Abul Kalam Azad University of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "makautwb.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-heilbronn.de"
+    ],
+    "name": "Heilbronn University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-heilbronn.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.bht-berlin.de"
+    ],
+    "name": "Berliner Hochschule für Technik",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "bht-berlin.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-augsburg.de"
+    ],
+    "name": "Augsburg University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-augsburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-osnabrueck.de"
+    ],
+    "name": "Osnabrück University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-osnabrueck.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.fh-salzburg.ac.at"
+    ],
+    "name": "Fachhochschule Salzburg",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "fh-salzburg.ac.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://www.aru.ac.tz"
+    ],
+    "name": "Ardhi University",
+    "alpha_two_code": "TZ",
+    "state-province": null,
+    "domains": [
+      "aru.ac.tz"
+    ],
+    "country": "Tanzania"
   }
 ]
