@@ -120739,5 +120739,149 @@
       "aru.ac.tz"
     ],
     "country": "Tanzania"
+  },
+  {
+    "web_pages": [
+      "https://www.uia.no"
+    ],
+    "name": "University of Agder",
+    "alpha_two_code": "NO",
+    "state-province": null,
+    "domains": [
+      "uia.no"
+    ],
+    "country": "Norway"
+  },
+  {
+    "web_pages": [
+      "https://www.cgc.edu.in"
+    ],
+    "name": "Chandigarh Group of Colleges",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "cgc.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.han.nl"
+    ],
+    "name": "HAN University of Applied Sciences",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "han.nl"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
+      "https://www.royalholloway.ac.uk"
+    ],
+    "name": "Royal Holloway, University of London",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "live.rhul.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-mannheim.de"
+    ],
+    "name": "University of Applied Science Mannheim",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-mannheim.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.umwelt-campus.de"
+    ],
+    "name": "Hochschule Trier, Umwelt-Campus Birkenfeld",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "umwelt-campus.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.ost.ch"
+    ],
+    "name": "OST Ostschweizer Fachhochschule",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "ost.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-offenburg.de/"
+    ],
+    "name": "Offenburg University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-offenburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.rwu.de"
+    ],
+    "name": "RWU Hochschule Ravensburg-Weingarten",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "rwu.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.u-bordeaux.fr"
+    ],
+    "name": "University of Bordeaux",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "u-bordeaux.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.unisa.ac.za"
+    ],
+    "name": "University of South Africa",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "unisa.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "https://snau.edu.ua"
+    ],
+    "name": "Sumy National Agrarian University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "snau.edu.ua"
+    ],
+    "country": "Ukraine"
   }
 ]
