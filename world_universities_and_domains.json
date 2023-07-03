@@ -15691,7 +15691,7 @@
     "web_pages": [
       "http://www.unipavaresia.edu.al/"
     ],
-    "name": "University “Pavaresia” Vlore",
+    "name": "University \"Pavaresia\" Vlore",
     "alpha_two_code": "AL",
     "state-province": null,
     "domains": [
@@ -90279,7 +90279,7 @@
       "https://synergy.ru/",
       "http://synergy.university/"
     ],
-    "name": "Moscow University for Industry and Finance “Synergy”",
+    "name": "Moscow University for Industry and Finance \"Synergy\"",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
@@ -120883,5 +120883,161 @@
       "snau.edu.ua"
     ],
     "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://muthesius-kunsthochschule.de/"
+    ],
+    "name": "Muthesius Kunsthochschule",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "mkh-mail.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.yoobee.ac.nz/"
+    ],
+    "name": "Yoobee College of creative innovation",
+    "alpha_two_code": "NZ",
+    "state-province": null,
+    "domains": [
+      "yoobeestudent.ac.nz"
+    ],
+    "country": "New Zealand"
+  },
+  {
+    "web_pages": [
+      "www.ue.edu.pe"
+    ],
+    "name": "Universidad ESAN",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "ue.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "https://www.tepic.tecnm.mx/"
+    ],
+    "name": "Instituto Tecnológico de Tepic",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ittepic.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.iths.se/"
+    ],
+    "name": "IT-Högskolan",
+    "alpha_two_code": "SE",
+    "state-province": null,
+    "domains": [
+      "iths.se"
+    ],
+    "country": "Sweden"
+  },
+  {
+    "web_pages": [
+      "https://www.univ-fcomte.fr"
+    ],
+    "name": "Université de Franche Comté",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "edu.univ-fcomte.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.pucgoias.edu.br/"
+    ],
+    "name": "Puc Goias",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "pucgoias.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://cdv.pl"
+    ],
+    "name": "Collegium Da Vinci",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "edu.cdv.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.iitrpr.ac.in/"
+    ],
+    "name": "Indian Institute of Technology Ropar",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iitrpr.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.mci.edu/"
+    ],
+    "name": "MCI",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "mci4me.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "www.mietjmu.in"
+    ],
+    "name": "Model Institute Of Engineering And Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mietjammu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.nycu.edu.tw/"
+    ],
+    "name": "National Yang Ming Chiao Tung University",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "nycu.edu.tw"
+    ],
+    "country": "Taiwan"
+  },
+  {
+    "web_pages": [
+      "www.bracu.ac.bd"
+    ],
+    "name": "BRAC University",
+    "alpha_two_code": "BG",
+    "state-province": null,
+    "domains": [
+      "bracu.ac.bd"
+    ],
+    "country": "Bangladesh"
   }
 ]
