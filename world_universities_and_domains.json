@@ -121772,5 +121772,485 @@
       "mstudent.iul.ac.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.aru.ac.uk"
+    ],
+    "name": "Anglia Ruskin University",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "aru.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.episup.com/fr"
+    ],
+    "name": "EPI",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "episousse.com.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://www.griet.ac.in/"
+    ],
+    "name": "Gokaraju Rangaraju Institute of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "grietcollege.com"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://msugensan.edu.ph/"
+    ],
+    "name": "Mindanao State University-Gensan",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "msugensan.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://mitaoe.ac.in/"
+    ],
+    "name": "MIT academy of engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mitaoe.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "www.modyuniversity.ac.in"
+    ],
+    "name": "Mody University of Science and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "modyuniversity.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.juet.ac.in/"
+    ],
+    "name": "Moksh Gupta",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "juetguna.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.mvjce.edu.in/"
+    ],
+    "name": "MVJ COLLEGE OF ENGINEERING",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mvjce.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.miit.edu.mm/"
+    ],
+    "name": "Myanmar Institute of Information Technology",
+    "alpha_two_code": "MM",
+    "state-province": null,
+    "domains": [
+      "miit.edu.mm"
+    ],
+    "country": "Myanmar"
+  },
+  {
+    "web_pages": [
+      "https://www.ncku.edu.tw/"
+    ],
+    "name": "National Cheng Kung University",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "gs.ncku.edu.tw"
+    ],
+    "country": "Taiwan"
+  },
+  {
+    "web_pages": [
+      "https://npic.edu.kh/en/"
+    ],
+    "name": "National Polytechnic Institute of Cambodia",
+    "alpha_two_code": "KH",
+    "state-province": null,
+    "domains": [
+      "npic.edu.kh"
+    ],
+    "country": "Cambodia"
+  },
+  {
+    "web_pages": [
+      "https://polytech.am/"
+    ],
+    "name": "National Polytechnical University of Armenia",
+    "alpha_two_code": "AM",
+    "state-province": null,
+    "domains": [
+      "polytechnic.am"
+    ],
+    "country": "Armenia"
+  },
+  {
+    "web_pages": [
+      "https://www.ntust.edu.tw/"
+    ],
+    "name": "National TAIWAN University of science and technology",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "mail.ntust.edu.tw"
+    ],
+    "country": "Taiwan"
+  },
+  {
+    "web_pages": [
+      "https://op.edu.ua/"
+    ],
+    "name": "National University \"Odessa Polytechnic\"",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "stud.op.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.ukma.edu.ua/"
+    ],
+    "name": "National University of Kyiv-Mohyla Academy",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "ukma.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "numl.edu.pk"
+    ],
+    "name": "National University of Modern Languages",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "numls.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "http://www.nsut.ac.in"
+    ],
+    "name": "Netaji Subhas University Of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nsut.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.nsec.ac.in"
+    ],
+    "name": "Netaji Subhash Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nsec.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://nmims.edu/"
+    ],
+    "name": "NMIMS",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nmims.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "nmbu.no"
+    ],
+    "name": "Norwegian University of Life Sciences, NMBU",
+    "alpha_two_code": "NO",
+    "state-province": null,
+    "domains": [
+      "nmbu.no"
+    ],
+    "country": "Norway"
+  },
+  {
+    "web_pages": [
+      "https://www.nusamandiri.ac.id/nuri/index.js"
+    ],
+    "name": "Nusa Mandiri University",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "nusamandiri.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://www.cet.edu.in/"
+    ],
+    "name": "ODISHA UNIVERSITY OF TECHNOLOGY & RESEARCH, ODISHA",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "cet.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.ono.ac.il/eng/"
+    ],
+    "name": "Ono Academic College",
+    "alpha_two_code": "IL",
+    "state-province": null,
+    "domains": [
+      "best.ono.ac.il"
+    ],
+    "country": "Israel"
+  },
+  {
+    "web_pages": [
+      "openwindow.co.za"
+    ],
+    "name": "Open Window Institute",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "openwindow.co.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "https://www.oslomet.no/en"
+    ],
+    "name": "Oslo Metropolitan University",
+    "alpha_two_code": "NO",
+    "state-province": null,
+    "domains": [
+      "oslomet.no"
+    ],
+    "country": "Norway"
+  },
+  {
+    "web_pages": [
+      "https://www.oth-regensburg.de"
+    ],
+    "name": "Ostbayerische Technische Hochschule Regensburg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "st.oth-regensburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://ppsu.ac.in"
+    ],
+    "name": "P.P.Savani university",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ppsu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.pccoepune.com"
+    ],
+    "name": "Pimpri Chinchwad College of Engineering (PCCOE)",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "pccoepune.org"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "www.plasu.edu.ng"
+    ],
+    "name": "plateau state university, bokkos",
+    "alpha_two_code": "NG",
+    "state-province": null,
+    "domains": [
+      "plasu.edu.ng"
+    ],
+    "country": "Nigeria"
+  },
+  {
+    "web_pages": [
+      "https://pollub.pl/"
+    ],
+    "name": "Politechnika Lubleska",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "pollub.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://po.edu.pl/"
+    ],
+    "name": "Politechnika Opolska",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "student.po.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "pens.ac.id"
+    ],
+    "name": "Politeknik Elektronika Negeri Surabaya",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "ce.student.pens.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://www.polibatam.ac.id/en/home/"
+    ],
+    "name": "Politeknik Negeri Batam",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "students.polibatam.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://www.pucv.cl/"
+    ],
+    "name": "Pontficia Universidad Catolica de Valparaiso",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "mail.pucv.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.pucpr.br/"
+    ],
+    "name": "pontifica universidade catolica do parana",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "pucpr.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://pcampus.edu.np/"
+    ],
+    "name": "Pulchowk Engineering College",
+    "alpha_two_code": "NP",
+    "state-province": null,
+    "domains": [
+      "pcampus.edu.np"
+    ],
+    "country": "Nepal"
+  },
+  {
+    "web_pages": [
+      "https://www.pvgcoet.ac.in/"
+    ],
+    "name": "Pune Vidyarthi Griha's College of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "pvgcoet.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.rasmussen.edu/"
+    ],
+    "name": "Rasmussen University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "smail.rasmussen.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.sccpag.edu.ph/"
+    ],
+    "name": "Saint Columban College",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "sccpag.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://samsun.edu.tr/"
+    ],
+    "name": "samsun university",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "samsun.edu.tr"
+    ],
+    "country": "Turkey"
   }
 ]
