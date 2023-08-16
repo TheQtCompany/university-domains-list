@@ -122252,5 +122252,449 @@
       "samsun.edu.tr"
     ],
     "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://aut.ac.ir"
+    ],
+    "name": "amirkabir",
+    "alpha_two_code": "IR",
+    "state-province": null,
+    "domains": [
+      "aut.ac.ir"
+    ],
+    "country": "Iran, Islamic Republic Of"
+  },
+  {
+    "web_pages": [
+      "https://amityuniversity.ae/about-amity"
+    ],
+    "name": "Amity university",
+    "alpha_two_code": "AE",
+    "state-province": null,
+    "domains": [
+      "amityuniversity.ae"
+    ],
+    "country": "United Arab Emirates"
+  },
+  {
+    "web_pages": [
+      "https://www.artsetmetiers.fr/en"
+    ],
+    "name": "Arts et Métiers ParisTech",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "artsetmetiers.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "www.atu.ie"
+    ],
+    "name": "Atlantic Technological University Sligo",
+    "alpha_two_code": "IE",
+    "state-province": null,
+    "domains": [
+      "atu.ie"
+    ],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "https://www.uni-augsburg.de/en/"
+    ],
+    "name": "Augsburg University",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "uni-a.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.avans.nl/"
+    ],
+    "name": "avans university of applied sciences",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "student.avans.nl"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
+      "https://axiscolleges.org/"
+    ],
+    "name": "Axis Colleges, Kanpur",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "axiscolleges.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://tsm-education.fr/"
+    ],
+    "name": "Ayman",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "tsm-education.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://bpitindia.ac.in"
+    ],
+    "name": "BHAGWAN PARSHURAM INSTITUTE OF TECHNOLOGY",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bpitindia.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.bvmengineering.ac.in/"
+    ],
+    "name": "Birla Vishvakarma Mahavidyalaya",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bvmengineering.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://bmsit.ac.in"
+    ],
+    "name": "BMSIT",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bmsit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "www.lycee-costebelle.fr"
+    ],
+    "name": "BTS CIEL - Lycee costebelle",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-nice.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.capilanou.ca/"
+    ],
+    "name": "Capilano University",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "capilanou.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://www.cgodin.qc.ca"
+    ],
+    "name": "Cégep Gérald Godin",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "cgodin.qc.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://www.iesb.br/"
+    ],
+    "name": "IESB - Instituto de Educação Superior de Brasília.",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "iesb.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://rru.ac.in/"
+    ],
+    "name": "Rashtriya Raksha University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "student.rru.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.roc-nijmegen.nl/"
+    ],
+    "name": "Roc Nijmegen",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "student.roc-nijmegen.nl"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
+      "www.rwth-aachen.de"
+    ],
+    "name": "RWTH aachen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "rwth-aachen.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "www.fsm.rnu.tn"
+    ],
+    "name": "Science faculty of Monastir Tunisia",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "fsm.rnu.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "http://www.sejong.ac.kr/"
+    ],
+    "name": "sejong",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "sejong.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "https://www.sena.edu.co"
+    ],
+    "name": "Servicio Nacional de Aprendizaje",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "sena.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://siesascs.edu.in/"
+    ],
+    "name": "SIES college of Arts, Science and Commerce",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "siesascs.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://portal.uniasselvi.com.br/"
+    ],
+    "name": "Sociedade Educacional Leonardo da Vinci Ltda (Uniasselvi)",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "aluno.uniasselvi.com.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.stust.edu.tw/"
+    ],
+    "name": "Southern Taiwan University of Science and Technology",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "stust.edu.tw"
+    ],
+    "country": "Taiwan"
+  },
+  {
+    "web_pages": [
+      "https://sairam.edu.in/"
+    ],
+    "name": "Sri Sairam Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "sairam.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://sriniet.edu.in"
+    ],
+    "name": "srinivasa institute of engineering and technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "sriniet.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.stgeorgesschool.com/"
+    ],
+    "name": "St georges school cologne",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "sgsc-students.com"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://stleos.nsw.edu.au"
+    ],
+    "name": "St Leo's Catholic College Wahroonga",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "dbbstu.catholic.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.stjosephstechnology.ac.in/"
+    ],
+    "name": "St. Joseph's Institute of tecnology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "students.stjosephstechnology.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.stmarytx.edu/"
+    ],
+    "name": "St. Mary's University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mail.stmarytx.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://bs1-kempten.de/"
+    ],
+    "name": "Staatliche Berufsschule I Kempten",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "bs1-kempten.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.codingburgas.bg"
+    ],
+    "name": "Stefan Hristov",
+    "alpha_two_code": "BG",
+    "state-province": null,
+    "domains": [
+      "codingburgas.bg"
+    ],
+    "country": "Bulgaria"
+  },
+  {
+    "web_pages": [
+      "http://suez.edu.eg/ar/en/"
+    ],
+    "name": "Suez Canal University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "http://suez.edu.eg/"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://juet.ac.in/"
+    ],
+    "name": "Sukumar Rastogi",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "uet.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.ttu.ac.ke/"
+    ],
+    "name": "taita taveta university",
+    "alpha_two_code": "KE",
+    "state-province": null,
+    "domains": [
+      "students.ttu.ac.ke"
+    ],
+    "country": "Kenya"
+  },
+  {
+    "web_pages": [
+      "https://www.th-ab.de/"
+    ],
+    "name": "technische Hochschule Aschaffenburg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "th-ab.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.tip.edu.ph/"
+    ],
+    "name": "Technological Institute of the Philippines",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "tip.edu.ph"
+    ],
+    "country": "Philippines"
   }
 ]
