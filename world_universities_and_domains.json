@@ -122696,5 +122696,845 @@
       "tip.edu.ph"
     ],
     "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://ernest.unistra.fr/jcms/"
+    ],
+    "name": "Unistra",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etu.unistra.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.univali.br/"
+    ],
+    "name": "UNIVALI",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "edu.univali.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.univates.br/"
+    ],
+    "name": "Univates",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "universo.univates.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "www.uan.edu.co"
+    ],
+    "name": "Universidad Antonio Narinño",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uan.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://uadeo.mx"
+    ],
+    "name": "Universidad Autonoma de Occidente",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uadeo.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.uaz.edu.mx/"
+    ],
+    "name": "Universidad Autónoma de Zacatecas",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaz.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.ucc.edu.ar/"
+    ],
+    "name": "Universidad Catolica de Cordoba",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "ucc.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.unicesmag.edu.co/"
+    ],
+    "name": "universidad CESMAG",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unicesmag.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://www.uniquindio.edu.co/"
+    ],
+    "name": "universidad del Quindio",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uqvirtual.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "uniquindio.com"
+    ],
+    "name": "Universidad del Quindío",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uqvirtual.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://lasalle.mx"
+    ],
+    "name": "Universidad La Salle México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "lasallistas.org.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "www.umsa.bo"
+    ],
+    "name": "Universidad Mayor de San Andrés",
+    "alpha_two_code": "BO",
+    "state-province": null,
+    "domains": [
+      "umsa.bo"
+    ],
+    "country": "Bolivia"
+  },
+  {
+    "web_pages": [
+      "https://www.unah.edu.hn/"
+    ],
+    "name": "Universidad Nacional Autonoma de Honduras",
+    "alpha_two_code": "HN",
+    "state-province": null,
+    "domains": [
+      "unah.hn"
+    ],
+    "country": "Honduras"
+  },
+  {
+    "web_pages": [
+      "https://unahur.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Hurlingham",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unahur.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.up.edu.mx/"
+    ],
+    "name": "Universidad Panamericana (UP)",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "up.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://sites.google.com/unipolidgo.edu.mx/inicio"
+    ],
+    "name": "Universidad Politécnica de Durango",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unipolidgo.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://usil.edu.pe/"
+    ],
+    "name": "Universidad San Ignacio de Loyola",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "usil.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "https://www.ustavillavicencio.edu.co/"
+    ],
+    "name": "universidad santo tomas sede villavicencio",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ustavillavicencio.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://usm.cl/"
+    ],
+    "name": "Universidad Tecnica Federico Santa Maria",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "sansano.usm.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.utb.edu.co"
+    ],
+    "name": "Universidad Tecnológica de Bolívar",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "utb.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://uveg.edu.mx"
+    ],
+    "name": "Universidad Virtual del Estado de Guanajuato",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uveg.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://portal.anhembi.br/"
+    ],
+    "name": "Universidade Anhembi Morumbi",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ulife.anhembi.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://ueg.br/"
+    ],
+    "name": "Universidade estadual de goias",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "aluno.ueg.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.unespar.edu.br/"
+    ],
+    "name": "Universidade Estadual do Paraná",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "unespar.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://unipampa.edu.br/portal/"
+    ],
+    "name": "Universidade Federal do Pampa (UNIPAMPA)",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "unipampa.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://ufpi.br/"
+    ],
+    "name": "Universidade Federal do Piaui",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ufpi.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://ufersa.edu.br/"
+    ],
+    "name": "UNIVERSIDADE FEDERAL Rural do Semi-Árido",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ufersa.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.unimore.it/"
+    ],
+    "name": "Università di Modena e reggio emilia",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "studenti.unimore.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://www.unimib.it/"
+    ],
+    "name": "Università milano bicocca",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "unimib.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://amikompurwokerto.ac.id"
+    ],
+    "name": "Universitas Amikom Purwokerto",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "amikompurwokerto.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://www.univ-fcomte.fr/"
+    ],
+    "name": "Universite de Franche Comte",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "univ-fcomte.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.univ-lille.fr/"
+    ],
+    "name": "Université de Lille",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "univ-lille.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.unamur.be/"
+    ],
+    "name": "Université de Namur",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "unamur.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://igee.univ-boumerdes.dz"
+    ],
+    "name": "Université M'Hamed BOUGARA Boumerdès Institut de Génie Électrique et\nÉlectronique",
+    "alpha_two_code": "DZ",
+    "state-province": null,
+    "domains": [
+      "univ-boumerdes.dz"
+    ],
+    "country": "Algeria"
+  },
+  {
+    "web_pages": [
+      "https://www.universite-paris-saclay.fr/"
+    ],
+    "name": "Université Paris Saclay",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "universite-paris-saclay.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.utar.edu.my/"
+    ],
+    "name": "Universiti Tunku Abdul Rahman",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": [
+      "utar.edu.my"
+    ],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": [
+      "aau.at"
+    ],
+    "name": "University Klagenfurt",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "edu.aau.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "univ-constantine2.dz"
+    ],
+    "name": "University of Abdelhamid Mehri Constantine 2",
+    "alpha_two_code": "DZ",
+    "state-province": null,
+    "domains": [
+      "univ-constantine2.dz"
+    ],
+    "country": "Algeria"
+  },
+  {
+    "web_pages": [
+      "https://www.uit.edu.vn/"
+    ],
+    "name": "University of Information Technology",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "uit.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.london.ac.uk/"
+    ],
+    "name": "University of London",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "student.london.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.umassglobal.edu"
+    ],
+    "name": "University of Massachusetts Global",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "umassglobal.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.richmond.edu/"
+    ],
+    "name": "University of Richmond",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "richmond.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.zewailcity.edu.eg/main/index.php?lang=en"
+    ],
+    "name": "university of science and technology zewail city",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "zewailcity.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://www.usherbrooke.ca/"
+    ],
+    "name": "University of sherbrooke",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "usherbrooke.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://up.edu.ph/"
+    ],
+    "name": "University of the Philippines",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "up.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.upcebu.edu.ph"
+    ],
+    "name": "University of the Philippines Cebu",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "upcebu.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.univ-tlse3.fr/"
+    ],
+    "name": "University of TOULOUSE III - Paul Sabatier",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "univ-tlse3.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.uvt.ro/"
+    ],
+    "name": "University of West of Timisoara",
+    "alpha_two_code": "RO",
+    "state-province": null,
+    "domains": [
+      "e-uvt.ro"
+    ],
+    "country": "Romania"
+  },
+  {
+    "web_pages": [
+      "https://www.heathrow-utc.org/"
+    ],
+    "name": "UTC Heathrow",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "heathrow-utc.org"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://utvco.edu.mx"
+    ],
+    "name": "UTVCO",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "utvco.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "www.uvci.edu.ci"
+    ],
+    "name": "UVCI",
+    "alpha_two_code": "CI",
+    "state-province": null,
+    "domains": [
+      "uvci.edu.ci"
+    ],
+    "country": "Cote D\"Ivoire"
+  },
+  {
+    "web_pages": [
+      "https://www.vamk.fi/"
+    ],
+    "name": "Vassa University of Applied Sciences",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "edu.vamk.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "Vaughn College"
+    ],
+    "name": "Vaughn College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "vaughn.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://vjti.ac.in"
+    ],
+    "name": "Veermata Jijabai Technological Institute",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vjti.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.ntust.edu.tw/index.php?Lang=en"
+    ],
+    "name": "Vic Chang",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "ntust.edu.tw"
+    ],
+    "country": "Taiwan"
+  },
+  {
+    "web_pages": [
+      "https://www.wgtn.ac.nz/"
+    ],
+    "name": "Victoria University of Wellington",
+    "alpha_two_code": "NZ",
+    "state-province": null,
+    "domains": [
+      "wgtn.ac.nz"
+    ],
+    "country": "new zealand"
+  },
+  {
+    "web_pages": [
+      "https://vpt.edu.in/diploma/polytechnic/index.html"
+    ],
+    "name": "Vidyalankar Polytechnic",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vpt.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "www.vilniustech.lt"
+    ],
+    "name": "Vilniaus Gedimino Technikos Universitetas",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "stud.vilniustech.lt"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://www.vit.edu/"
+    ],
+    "name": "Vishwakarma Institute of Technology, Pune",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vit.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "wara.de"
+    ],
+    "name": "Walther Rathenau Gewerbeschule",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "wara.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.waseda.jp/top/en/"
+    ],
+    "name": "Waseda University",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "waseda.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://www.wit.edu.pl/"
+    ],
+    "name": "WIT Warsaw school of Information Technology under the auspices of the Polish\nAcademy of Sciences (PAN)",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "wit.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "wab.edu.pl"
+    ],
+    "name": "Wrocławska Akademia Biznesu w Naukach Stosowanych",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "wab.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://wsiz.edu.pl/"
+    ],
+    "name": "Wyższa Szkoła Informatyki i Zarządzania",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "wsiz.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.u-pec.fr/"
+    ],
+    "name": "Yassine Arrault",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etu.u-pec.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "enib.fr"
+    ],
+    "name": "Yassine Azzimani",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "enib.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://yildiz.edu.tr/en"
+    ],
+    "name": "Yıldız Teknik Üniversitesi",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "yildiz.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "yorku.ca"
+    ],
+    "name": "York University",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "my.yorku.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://www.nycu.edu.tw/"
+    ],
+    "name": "Zu-Yu Wu",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+      "nycu.edu.tw"
+    ],
+    "country": "Taiwan"
+  },
+  {
+    "web_pages": [
+      "https://www.ccmc.ac.jp/"
+    ],
+    "name": "中央情報専門学校",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "ccmc.ac.jp"
+    ],
+    "country": "Japan"
   }
 ]
