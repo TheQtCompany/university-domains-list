@@ -123536,5 +123536,437 @@
       "ccmc.ac.jp"
     ],
     "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://www.grenoble-inp.fr"
+    ],
+    "name": "Grenoble INP",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "grenoble-inp.org"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://hansenberg.dk/"
+    ],
+    "name": "HANSENBERG",
+    "alpha_two_code": "DK",
+    "state-province": null,
+    "domains": [
+      "hansenberg.dk"
+    ],
+    "country": "Denmark"
+  },
+  {
+    "web_pages": [
+      "http://www.est-umi.ac.ma/"
+    ],
+    "name": "High school of technology in meknes in morocco",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "edu.umi.ac.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "ICT UNIVERISTY.org"
+    ],
+    "name": "ICT UNIVERSITY",
+    "alpha_two_code": "CM",
+    "state-province": null,
+    "domains": [
+      "itcuniversity.edu.cm"
+    ],
+    "country": "Cameroon"
+  },
+  {
+    "web_pages": [
+      "https://www.idat.edu.pe/"
+    ],
+    "name": "IDAT",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "idat.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "https://www.imerir.com"
+    ],
+    "name": "IMERIR",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "imerir.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://agora.xtec.cat/insjoandaustria/"
+    ],
+    "name": "Instituto Joan D'Austria",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "iesjoandaustria.org"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.isen.fr/campus/caen/"
+    ],
+    "name": "ISEN Yncrea Ouest",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "isen-ouest.yncrea.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.olivelliputelli.edu.it/"
+    ],
+    "name": "Istituto di Istruzione Superiore Statale Olivelli-Putelli",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "olivelliputelli.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "www.ittsscalfaro.edu.it"
+    ],
+    "name": "Istituto tecnico tecnologico statale E. Scalfaro di Catanzaro",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "ittsscalfaro.edu.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://www.itisrossi.edu.it"
+    ],
+    "name": "ITIS Rossi",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "itisrossi.vi.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://ynov-toulouse.com/"
+    ],
+    "name": "Jean ST FORT",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ynov.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "www.godalming.ac.uk"
+    ],
+    "name": "Joe McCarthy-Holland",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "godalming.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.tredu.fi/"
+    ],
+    "name": "joel M",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "edu.tampere.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "https://kea.dk/"
+    ],
+    "name": "Københavns Erhvervsakademi",
+    "alpha_two_code": "DK",
+    "state-province": null,
+    "domains": [
+      "stud.kea.sk"
+    ],
+    "country": "Denmark"
+  },
+  {
+    "web_pages": [
+      "https://www.stfrancoislaroche.fr/accueil/"
+    ],
+    "name": "LGTP saint francois d'assise",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "stfrancoislaroche.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://clg.qc.ca/"
+    ],
+    "name": "Lionel-Groulx",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "edu.clg.qc.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://www.astrea-longsands.org/"
+    ],
+    "name": "Longsands Academy",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "astrea-longsands.org"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "web.lovassy.hu"
+    ],
+    "name": "Lovassy Laszlo Gimnazion",
+    "alpha_two_code": "HU",
+    "state-province": null,
+    "domains": [
+      "lovassy.edu.hu"
+    ],
+    "country": "Hungary"
+  },
+  {
+    "web_pages": [
+      "http://www.ludwig-geissler-schule.de"
+    ],
+    "name": "LUDWIG-GEISSLER-SCHULE",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "lgs-hu.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.lyceekastler.fr/"
+    ],
+    "name": "lycée kastler - BTS CIEL IR",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-bordeaux.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://monnet-mermoz.fr/"
+    ],
+    "name": "lycée monnet mermoz",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-clermont.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.tudublin.ie"
+    ],
+    "name": "Technological University Dublin",
+    "alpha_two_code": "IE",
+    "state-province": null,
+    "domains": [
+      "tudublin.ie"
+    ],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "www.th-koeln.de"
+    ],
+    "name": "TH Köln",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "th-koeln.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "www.ictuniversity.org"
+    ],
+    "name": "The ICT University",
+    "alpha_two_code": "CM",
+    "state-province": null,
+    "domains": [
+      "ictuniversity.edu.cm"
+    ],
+    "country": "Cameroon"
+  },
+  {
+    "web_pages": [
+      "https://www.open.ac.uk/"
+    ],
+    "name": "The Open University",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "open.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.uq.edu.au"
+    ],
+    "name": "The University of Queensland",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "uqconnect.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.tus.ac.jp/en/"
+    ],
+    "name": "Tokyo University of Science",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "tus.ac.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://www.tcu.ac.jp/"
+    ],
+    "name": "TokyoCityUniversity",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "tcu.ac.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://www.utb.cz/en/"
+    ],
+    "name": "Tomas Bata University",
+    "alpha_two_code": "CZ",
+    "state-province": null,
+    "domains": [
+      "utb.cz"
+    ],
+    "country": "Czech Republic"
+  },
+  {
+    "web_pages": [
+      "https://tcioe.edu.np/"
+    ],
+    "name": "Tribhuvan University Institute of Engineering Thapathali Campus",
+    "alpha_two_code": "NP",
+    "state-province": null,
+    "domains": [
+      "tcioe.edu.np"
+    ],
+    "country": "Nepal"
+  },
+  {
+    "web_pages": [
+      "https://www.utc.edu.vn"
+    ],
+    "name": "Trường Đại Học Giao Thông Vận Tải",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "lms.utc.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.udem.edu.mx/es"
+    ],
+    "name": "UDEM",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udem.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.udk-berlin.de/startseite/"
+    ],
+    "name": "UdK Berlin",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "udk-berlin.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.uesb.br/"
+    ],
+    "name": "UESB - Universidade Estadual do Sudoeste da Bahia",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "uesb.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.unicesumar.edu.br/home/"
+    ],
+    "name": "unicesumar",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "unicesumar.edu.br"
+    ],
+    "country": "Brazil"
   }
 ]
