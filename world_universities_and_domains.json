@@ -125408,5 +125408,857 @@
       "mail.ecust.edu.cn"
     ],
     "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.seu.edu.cn/"
+    ],
+    "name": "Southeast University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "seu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://sti.edu"
+    ],
+    "name": "STI College",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "sjdelmonte.sti.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.akgec.ac.in/"
+    ],
+    "name": "Ajay kumar garg engineering college",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "akgec.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://prenae.ifma.edu.br/"
+    ],
+    "name": "Instituto Federal de Educação Ciência e Tecnologia do Maranhão",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "acad.ifma.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "http://www.xauat.edu.cn"
+    ],
+    "name": "Xi’an University of Architecture and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "xauat.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://joyuniversity.edu.in/"
+    ],
+    "name": "Joy University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "joyuniversity.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.subu.edu.tr/tr"
+    ],
+    "name": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "subu.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://deanza.edu"
+    ],
+    "name": "De Anza College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fhda.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.hcnu.edu.cn/"
+    ],
+    "name": "Hechi university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hcnu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.csuft.edu.cn/"
+    ],
+    "name": "Central South University Of Forestry And Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "csuft.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.qust.edu.cn/"
+    ],
+    "name": "Qingdao university of science and technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mails.qust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.smu.edu.cn"
+    ],
+    "name": "Southern Medical University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "smu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://english.hznu.edu.cn/"
+    ],
+    "name": "HangZhou Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.hznu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.shnu.edu.cn/"
+    ],
+    "name": "Shanghai Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "smail.shnu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.lyu.edu.cn/"
+    ],
+    "name": "Linyi University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "lyu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.xatu.edu.cn/"
+    ],
+    "name": "Xi'an technological university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "st.xatu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.dlut.edu.cn/"
+    ],
+    "name": "Dalian university of Technology ",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.dlut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://ha.hainanu.edu.cn/renshi/index.htm"
+    ],
+    "name": "Hainan University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hainanu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.jxust.edu.cn/"
+    ],
+    "name": "JiangXi University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.jxust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cqjtu.edu.cn/"
+    ],
+    "name": "Chongqing Jianotong University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cqjtu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.neu.edu.cn/"
+    ],
+    "name": "Northeastern University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.neu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://zust.edu.cn"
+    ],
+    "name": "Zhejiang University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "zust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.nbufe.edu.cn/"
+    ],
+    "name": "Ningbo University of Finance and economics",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "s.nbufe.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cuhk.edu.cn/en"
+    ],
+    "name": "The Chinese University of Hong Kong, Shenzhen",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "link.cuhk.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.zqu.edu.cn/"
+    ],
+    "name": "Zhaoqing University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "zqu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.lzjtu.cn/"
+    ],
+    "name": "Lanzhou Jiaotong University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.lzjtu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.imut.edu.cn/"
+    ],
+    "name": "Inner Mongolia University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "imut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://en.neepu.edu.cn/"
+    ],
+    "name": "Northeast Electric Power University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "neepu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.mnust.edu.cn/index.htm"
+    ],
+    "name": "Minnan University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mnust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.dlpu.edu.cn/"
+    ],
+    "name": "Dalian Polytechnic University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "dlpu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://english.btbu.edu.cn/"
+    ],
+    "name": "Beijing Technology And Business University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "btbu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.xidian.edu.cn/"
+    ],
+    "name": "Xidian University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.xidian.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.jhun.edu.cn/"
+    ],
+    "name": "Jianghan University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.jhun.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.jssvc.edu.cn"
+    ],
+    "name": "Suzhou Vocational University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.jssvc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.jsnu.edu.cn/"
+    ],
+    "name": "Jiangsu Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "jsnu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.ecjtu.edu.cn/"
+    ],
+    "name": "East China JiaoTong University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ecjtu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.hnust.edu.cn/ "
+    ],
+    "name": "Hunan University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.hnust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://en.tiangong.edu.cn/main.htm"
+    ],
+    "name": "TianGong University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "tiangong.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://wap.zuel.edu.cn/"
+    ],
+    "name": "Zhongnan university of economics and law",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.zuel.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.shiep.edu.cn/"
+    ],
+    "name": "Shanghai University of Electric Power",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.shiep.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.hbtcm.edu.cn/"
+    ],
+    "name": "Hubei University of Chinese Medicine",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hbtcm.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "www.hnucm.edu.cn"
+    ],
+    "name": "Hunan university of chinese medicine",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.hnucm.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.ustc.edu.cn/"
+    ],
+    "name": "University of Science and Technology of China",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ustc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.dgut.edu.cn/"
+    ],
+    "name": "DongGuan University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "dgut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.yxnu.edu.cn/"
+    ],
+    "name": "YuXi Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "yxnu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.csust.edu.cn/"
+    ],
+    "name": "Changsha University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.csust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://english.sztu.edu.cn"
+    ],
+    "name": "Shenzhen technology university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stumail.sztu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://en.xpu.edu.cn/"
+    ],
+    "name": "Xi’an Polytechnic University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.xpu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "www.ccu.edu.cn"
+    ],
+    "name": "Changchun University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mails.ccu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.scut.edu.cn"
+    ],
+    "name": "South China university of technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.scut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.scuec.edu.cn/"
+    ],
+    "name": "South-Central minzu university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.scuec.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.huel.edu.cn/"
+    ],
+    "name": "Henan University of Economics and Law",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.huel.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.ccsu.cn/"
+    ],
+    "name": "Changsha University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.ccsu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.njtech.edu.cn/"
+    ],
+    "name": "Nanjing tech university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "njtech.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "www.SHANGHAITECH.edu.cn"
+    ],
+    "name": "ShanghaiTech university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "shanghaitech.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cczu.edu.cn/"
+    ],
+    "name": "Changzhou University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "smail.cczu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.just.edu.cn/"
+    ],
+    "name": "Jiangsu university of science and technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.just.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.ncwu.edu.cn/"
+    ],
+    "name": "North China university of water resources and electric power",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.ncwu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.ahpu.edu.cn/"
+    ],
+    "name": "Anhui Polytechnic University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.ahpu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.haust.edu.cn/"
+    ],
+    "name": "Henan university of science and technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.haust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.kust.edu.cn/"
+    ],
+    "name": "Kunming university of science and technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.kust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.hpu.edu.cn/"
+    ],
+    "name": "Henan Polytechnic University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hpu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://jiaowu.web.hebust.edu.cn/"
+    ],
+    "name": "Hebei university of science and technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.hebust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.ustl.edu.cn"
+    ],
+    "name": "University of Science and Technology Liaoning",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ustl.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.hutb.edu.cn"
+    ],
+    "name": "Hunan university of technology and business",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.hutb.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.sit.edu.cn/ "
+    ],
+    "name": "Shanghai institute of technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.sit.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "www.aynu.edu.cn"
+    ],
+    "name": "Anyang normal unversity",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.aynu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://yu.edu.sa/"
+    ],
+    "name": "Al Yamamah University",
+    "alpha_two_code": "SA",
+    "state-province": null,
+    "domains": [
+      "yu.edu.sa"
+    ],
+    "country": "Saudi-Arabia"
+  },
+  {
+    "web_pages": [
+      "https://kasprzak.edu.pl"
+    ],
+    "name": "Technikum Elektroniczne nr 1 im. Marcina Kasprzaka",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "kasprzak.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://paf-iast.edu.pk/"
+    ],
+    "name": "PAK-AUSTRIA FACHHOCHSCHULE: Institute of Applied sciences and technology Mang,\nHaripur",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "fecid.paf-iast.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "www.southtexascollege.edu"
+    ],
+    "name": "Joe Lee Rivas",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "stu.southtexascollege.edu"
+    ],
+    "country": "United States"
   }
 ]
