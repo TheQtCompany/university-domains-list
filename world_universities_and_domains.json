@@ -126260,5 +126260,317 @@
       "stu.southtexascollege.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.toyota-ct.ac.jp/"
+    ],
+    "name": "Toyota National College of Technology",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "toyota.kosen-ac.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://www.budiluhur.ac.id/"
+    ],
+    "name": "Budi Luhur University",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "student.budiluhur.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://www.sut.edu.cn/index.jsp"
+    ],
+    "name": "Shenyang university of technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "smail.sut.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.iu.de"
+    ],
+    "name": "IU International University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "iu-study.org"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.msudenver.edu/"
+    ],
+    "name": "Metropolitan State University of Denver",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "msudenver.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.rmcad.edu/"
+    ],
+    "name": "Rmcad",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "rmcad.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.micollege.edu.mv/"
+    ],
+    "name": "Mianz International College",
+    "alpha_two_code": "MV",
+    "state-province": null,
+    "domains": [
+      "micollege.edu.mv"
+    ],
+    "country": "Maldives"
+  },
+  {
+    "web_pages": [
+      "https://www.wxc.edu.cn/"
+    ],
+    "name": "West Anhui University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.wxc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://iitmandi.ac.in/"
+    ],
+    "name": "IIT mandi",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "students.iitmandi.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://umich.edu/"
+    ],
+    "name": "University of Michigan",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "umich.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.tuf.edu.pk/"
+    ],
+    "name": "The university of faisalabad",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "tuf.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.shanghaitech.edu.cn/"
+    ],
+    "name": "Shanghaitech University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "shanghaitech.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://tec.mx/en"
+    ],
+    "name": "Instituto Tecnológico de Estudios Superiores de Monterrey",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "tec.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "nec.edu.in"
+    ],
+    "name": "National Engineering College, Kovilpatti",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nec.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.tut.ac.za/"
+    ],
+    "name": "Tshwane university of technology",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "tut4life.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "https://cbt.ifsp.edu.br/"
+    ],
+    "name": "Instituto Federal de São Paulo - Campus Cubatão",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "aluno.ifsp.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "www.unifesp.br"
+    ],
+    "name": "Universidade Federal de Sao Paulo",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "unifesp.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "www.hft-stuttgart.de"
+    ],
+    "name": "Hochschule für Technik Stuttgart",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hft-stuttgart.de"
+    ],
+    "country": "Germanu"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-kempten.de/"
+    ],
+    "name": "Hochschule für angewandte Wissenschaften Kempten",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "stud.hs-kempten.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://pbu.mypolycc.edu.my"
+    ],
+    "name": "POLITEKNIK BALIK PULAU",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": [
+      "student.pbu.edu.my"
+    ],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": [
+      "https://www.fccollege.edu.pk"
+    ],
+    "name": "Forman Christian College(A Chartered University)",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "formanite.fccollege.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.fh-dortmund.de/"
+    ],
+    "name": "Fachhochschule Dortmund",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "stud.fh-dortmund.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://uttarauniversity.edu.bd/"
+    ],
+    "name": "Uttara University",
+    "alpha_two_code": "BD",
+    "state-province": null,
+    "domains": [
+      "uttarauniversity.edu.bd"
+    ],
+    "country": "Bangladesh"
+  },
+  {
+    "web_pages": [
+      "http://ensias.um5.ac.ma/"
+    ],
+    "name": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "ensias.um5.ac.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "https://www.rset.edu.in/gscc/"
+    ],
+    "name": "Ghanshyamdas Saraf College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "sarafcollege.org"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.kletech.ac.in/"
+    ],
+    "name": "KLE TECHNOLOGICAL UNIVERSITY",
+    "alpha_two_code": "India",
+    "state-province": null,
+    "domains": [
+      "kletech.ac.in"
+    ],
+    "country": "IN"
   }
 ]
