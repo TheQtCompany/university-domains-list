@@ -7354,18 +7354,6 @@
   },
   {
     "web_pages": [
-      "http://www.msudenver.edu/"
-    ],
-    "name": "Metropolitan State College of Denver",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "msudenver.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "https://www.denvercollegeofnursing.edu/"
     ],
     "name": "Denver College of Nursing",
@@ -12581,9 +12569,9 @@
   },
   {
     "web_pages": [
-      "http://www.umich.edu/"
+      "https://umich.edu/"
     ],
-    "name": "University of Michigan - Ann Arbor",
+    "name": "University of Michigan",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
@@ -41995,13 +41983,14 @@
   },
   {
     "web_pages": [
-      "http://www.fh-dortmund.de/"
+      "https://www.fh-dortmund.de/"
     ],
     "name": "Fachhochschule Dortmund",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-dortmund.de"
+      "fh-dortmund.de",
+      "stud.fh-dortmund.de"
     ],
     "country": "Germany"
   },
@@ -80001,9 +79990,9 @@
   },
   {
     "web_pages": [
-      "http://www.tuf.edu.pk/"
+      "https://www.tuf.edu.pk/"
     ],
-    "name": "University of Faisalabad",
+    "name": "The University of Faisalabad",
     "alpha_two_code": "PK",
     "state-province": null,
     "domains": [
@@ -92446,13 +92435,14 @@
   },
   {
     "web_pages": [
-      "http://www.tut.ac.za/"
+      "https://www.tut.ac.za/"
     ],
     "name": "Tshwane University of Technology",
     "alpha_two_code": "ZA",
-    "state-province": "Gauteng Province",
+    "state-province": null,
     "domains": [
-      "tut.ac.za"
+      "tut.ac.za",
+      "tut4life.ac.za"
     ],
     "country": "South Africa"
   },
@@ -119084,18 +119074,6 @@
   },
   {
     "web_pages": [
-      "https://www.tut.ac.za"
-    ],
-    "name": "Tshwane University of Technology",
-    "alpha_two_code": "ZA",
-    "state-province": null,
-    "domains": [
-      "tut.ac.za"
-    ],
-    "country": "South Africa"
-  },
-  {
-    "web_pages": [
       "https://sairam.edu.in"
     ],
     "name": "Sri Sai Ram Engineering College",
@@ -120226,13 +120204,14 @@
   },
   {
     "web_pages": [
-      "https://www.istanbul.edu.tr"
+      "https://www.istanbul.edu.tr/tr/"
     ],
     "name": "Istanbul University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "istanbul.edu.tr"
+      "istanbul.edu.tr",
+      "ogr.iu.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -121316,19 +121295,6 @@
     ],
     "country": "Portugal"
   },
-  
-  {
-    "web_pages": [
-      "https://www.istanbul.edu.tr/"
-    ],
-    "name": "Istanbul University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": [
-      "istanbul.edu.tr"
-    ],
-    "country": "Turkey"
-  },
   {
     "web_pages": [
       "https://www.hauniv.edu/"
@@ -121535,13 +121501,14 @@
   },
   {
     "web_pages": [
-      "https://www.uni-due.de/en/index.php"
+      "https://www.uni-due.de/"
     ],
-    "name": "University of Duisburg-Essen",
+    "name": "Universität Duisburg-Essen",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "stud.uni-due.de"
+      "stud.uni-due.de",
+      "uni-due.de"
     ],
     "country": "Germany"
   },
@@ -126059,9 +126026,9 @@
   },
   {
     "web_pages": [
-      "www.SHANGHAITECH.edu.cn"
+      "https://www.shanghaitech.edu.cn/"
     ],
-    "name": "ShanghaiTech university",
+    "name": "ShanghaiTech University",
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
@@ -126371,42 +126338,6 @@
   },
   {
     "web_pages": [
-      "https://umich.edu/"
-    ],
-    "name": "University of Michigan",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "umich.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "https://www.tuf.edu.pk/"
-    ],
-    "name": "The university of faisalabad",
-    "alpha_two_code": "PK",
-    "state-province": null,
-    "domains": [
-      "tuf.edu.pk"
-    ],
-    "country": "Pakistan"
-  },
-  {
-    "web_pages": [
-      "https://www.shanghaitech.edu.cn/"
-    ],
-    "name": "Shanghaitech University",
-    "alpha_two_code": "CN",
-    "state-province": null,
-    "domains": [
-      "shanghaitech.edu.cn"
-    ],
-    "country": "China"
-  },
-  {
-    "web_pages": [
       "https://tec.mx/en"
     ],
     "name": "Instituto Tecnológico de Estudios Superiores de Monterrey",
@@ -126419,7 +126350,7 @@
   },
   {
     "web_pages": [
-      "nec.edu.in"
+      "https://nec.edu.in/"
     ],
     "name": "National Engineering College, Kovilpatti",
     "alpha_two_code": "IN",
@@ -126428,18 +126359,6 @@
       "nec.edu.in"
     ],
     "country": "India"
-  },
-  {
-    "web_pages": [
-      "https://www.tut.ac.za/"
-    ],
-    "name": "Tshwane university of technology",
-    "alpha_two_code": "ZA",
-    "state-province": null,
-    "domains": [
-      "tut4life.ac.za"
-    ],
-    "country": "South Africa"
   },
   {
     "web_pages": [
@@ -126455,9 +126374,9 @@
   },
   {
     "web_pages": [
-      "www.unifesp.br"
+      "https://www.unifesp.br/"
     ],
-    "name": "Universidade Federal de Sao Paulo",
+    "name": "Universidade Federal de São Paulo",
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": [
@@ -126467,7 +126386,7 @@
   },
   {
     "web_pages": [
-      "www.hft-stuttgart.de"
+      "https://www.hft-stuttgart.de/"
     ],
     "name": "Hochschule für Technik Stuttgart",
     "alpha_two_code": "DE",
@@ -126475,7 +126394,7 @@
     "domains": [
       "hft-stuttgart.de"
     ],
-    "country": "Germanu"
+    "country": "Germany"
   },
   {
     "web_pages": [
@@ -126505,25 +126424,13 @@
     "web_pages": [
       "https://www.fccollege.edu.pk"
     ],
-    "name": "Forman Christian College(A Chartered University)",
+    "name": "Forman Christian College (A Chartered University)",
     "alpha_two_code": "PK",
     "state-province": null,
     "domains": [
       "formanite.fccollege.edu.pk"
     ],
     "country": "Pakistan"
-  },
-  {
-    "web_pages": [
-      "https://www.fh-dortmund.de/"
-    ],
-    "name": "Fachhochschule Dortmund",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "stud.fh-dortmund.de"
-    ],
-    "country": "Germany"
   },
   {
     "web_pages": [
@@ -126565,12 +126472,12 @@
     "web_pages": [
       "https://www.kletech.ac.in/"
     ],
-    "name": "KLE TECHNOLOGICAL UNIVERSITY",
+    "name": "KLE Technological University",
     "alpha_two_code": "India",
     "state-province": null,
     "domains": [
       "kletech.ac.in"
     ],
-    "country": "IN"
+    "country": "India"
   }
 ]
