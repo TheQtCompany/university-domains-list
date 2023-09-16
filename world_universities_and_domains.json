@@ -44256,13 +44256,16 @@
   },
   {
     "web_pages": [
-      "http://www.uni-duisburg-essen.de/"
+      "http://www.uni-duisburg-essen.de/",
+      "https://www.uni-due.de/"
     ],
     "name": "Universität Duisburg-Essen",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "uni-duisburg-essen.de"
+      "uni-duisburg-essen.de",
+      "stud.uni-due.de",
+      "uni-due.de"
     ],
     "country": "Germany"
   },
@@ -121498,19 +121501,6 @@
       "usherbrooke.ca"
     ],
     "country": "Canada"
-  },
-  {
-    "web_pages": [
-      "https://www.uni-due.de/"
-    ],
-    "name": "Universität Duisburg-Essen",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "stud.uni-due.de",
-      "uni-due.de"
-    ],
-    "country": "Germany"
   },
   {
     "web_pages": [
