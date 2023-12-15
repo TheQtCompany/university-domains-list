@@ -124942,6 +124942,7 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
+      "cczu.edu.cn",
       "smail.cczu.edu.cn"
     ],
     "country": "China"
@@ -125074,7 +125075,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "upc.edu.cn"
+      "upc.edu.cn",
+      "s.upc.edu.cn"
     ],
     "country": "China"
   },
@@ -126082,6 +126084,7 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
+      "haust.edu.cn",
       "stu.haust.edu.cn"
     ],
     "country": "China"
