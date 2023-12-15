@@ -25907,7 +25907,7 @@
   },
   {
     "web_pages": [
-      "http://www.queensu.ca/"
+      "https://www.queensu.ca/"
     ],
     "name": "Queen's University",
     "alpha_two_code": "CA",
@@ -126916,5 +126916,329 @@
       "etu.u-bordeaux-montaigne.fr"
     ],
     "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://csumb.edu/"
+    ],
+    "name": "California State University Monterey Bay",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "csumb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "ekonom.kolobrzeg.pl"
+    ],
+    "name": "Zespoł Szkoł Ekonomiczno-Hotelarskich im. Emilii Gierczak",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "kolobrzeg.powiat.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://mercubuana-yogya.ac.id/"
+    ],
+    "name": "Universitas Mercu Buana Yogyakarta",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "student.mercubuana-yogya.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://www.untels.edu.pe/"
+    ],
+    "name": "Universidad Nacional Tecnológica de Lima Sur",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "untels.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "https://www.mondragon.edu/en/home"
+    ],
+    "name": "MONDRAGON UNIBERTSITATEA",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "alumni.mondragon.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "www.duoc.cl"
+    ],
+    "name": "Duoc UC ",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "profesor.duoc.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://vinuni.edu.vn/"
+    ],
+    "name": "VinUniversity",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "vinuni.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.uphf.fr/"
+    ],
+    "name": "Université polytechnique des Haut de France",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "uphf.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "www.berufskolleg-olsberg.de"
+    ],
+    "name": "Berufskolleg Olsberg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "berufskolleg-olsberg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "umn.ac.id"
+    ],
+    "name": "Universitas Multimedia Nusantara",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "student.umn.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "svvsd.org"
+    ],
+    "name": "St. Vrain Valley School District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "svvsd.org"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "www.agsb.co.uk"
+    ],
+    "name": "Altrincham Grammar School for Boys",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "iollite@agsb.co.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.ustp.edu.ph/"
+    ],
+    "name": "University of Science and Technology of Southern Philippines",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "ustp.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.artez.nl/"
+    ],
+    "name": "Artez University of the Arts",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "student.artez.nl"
+    ],
+    "country": "Netherland"
+  },
+  {
+    "web_pages": [
+      "http://www.comsats.edu.pk/"
+    ],
+    "name": "COMSATS University Islamabad",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "comsats.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.ipn.mx"
+    ],
+    "name": "Instituto Politécnico Nacional",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "alumno.ipn.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.cruzeirodosul.edu.br/"
+    ],
+    "name": "Universidade Cruzeiro do Sul",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "cs.cruzeirodosul.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.ciat.edu"
+    ],
+    "name": "California Institute of Arts and Technology",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ciat.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.usergioarboleda.edu.co/"
+    ],
+    "name": "Universidad Sergio Arboleda",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "usa.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://tus.ie/"
+    ],
+    "name": "Technological University of the Shannon: Midlands Midwest",
+    "alpha_two_code": "IE",
+    "state-province": null,
+    "domains": [
+      "student.tus.ie"
+    ],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "https://www.nitw.ac.in"
+    ],
+    "name": "National Institute of Technology Warangal",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "student.nitw.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://jecrcuniversity.edu.in/"
+    ],
+    "name": "JECRC University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "jecrcu.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.knit.ac.in/"
+    ],
+    "name": "Kamla Nehru Institute of technology Sultanpur",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "knit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://aot.edu.in/"
+    ],
+    "name": "Academy of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "aot.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://iiitu.ac.in/"
+    ],
+    "name": "Indian Institute of Information Technology Una",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iiitu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://liet.in/"
+    ],
+    "name": "Lloyd Institute of Engineering and Technology, Greater Noida, India",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "liet.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.suiet.in/"
+    ],
+    "name": "Srinivas University Institute of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srinivasuniversity.edu.in"
+    ],
+    "country": "India"
   }
 ]
