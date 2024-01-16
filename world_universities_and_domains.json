@@ -127240,5 +127240,306 @@
       "srinivasuniversity.edu.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.iutoic-dhaka.edu/"
+    ],
+    "name": "Islamic University of Technology",
+    "alpha_two_code": "BD",
+    "state-province": null,
+    "domains": [
+      "iut-dhaka.edu"
+    ],
+    "country": "Bangladesh"
+  },
+  {
+    "web_pages": [
+      "https://www.ip-paris.fr/en"
+    ],
+    "name": "Institut Polytechnique de Paris",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ip-paris.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.ujs.sk/en/"
+    ],
+    "name": "J. Selye University",
+    "alpha_two_code": "SK",
+    "state-province": null,
+    "domains": [
+      "student.ujs.sk"
+    ],
+    "country": "Slovakia"
+  },
+  {
+    "web_pages": [
+      "https://www.helmo.be/Formations/Technique/Bachelier-en-Automatique/Formation.aspx"
+    ],
+    "name": "HELMo St.Laurent",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "student.helmo.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "www.eucsj.dk"
+    ],
+    "name": "EUC Sjælland",
+    "alpha_two_code": "DK",
+    "state-province": null,
+    "domains": [
+      "unv.eucsj.dk",
+      "eucsj.dk"
+    ],
+    "country": "Denmark"
+  },
+  {
+    "web_pages": [
+      "https://thecityschool.edu.pk/"
+    ],
+    "name": "The City School",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "csn.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://lc.ac.ae/"
+    ],
+    "name": "Liwa College",
+    "alpha_two_code": "AE",
+    "state-province": null,
+    "domains": [
+      "lc.ac.ae"
+    ],
+    "country": "United Arab Emirates"
+  },
+  {
+    "web_pages": [
+      "https://www.htlwrn.ac.at/"
+    ],
+    "name": "Höhere technische Bundes-Lehr- und Versuchsanstalt (HTBLuVA) Wiener Neustadt",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "student.htlwrn.ac.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://pnu.edu.ua/en/"
+    ],
+    "name": "Vasyl Stefanyk Precarpathian National University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "pnu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.nscc.ca/"
+    ],
+    "name": "NSCC",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "nscc.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://fsre.sum.ba/"
+    ],
+    "name": "Fakultet strojarstva racunarstva i elektrotehnike",
+    "alpha_two_code": "BA",
+    "state-province": null,
+    "domains": [
+      "fsre.sum.ba"
+    ],
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "web_pages": [
+      "https://www.jangan.ac.kr/jangan/index.do"
+    ],
+    "name": "Jangan university",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "o365.jangan.ac.kr"
+    ],
+    "country": "South Korea"
+  },
+  {
+    "web_pages": [
+      "https://www.chiba-u.ac.jp/e/"
+    ],
+    "name": "Chiba University",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "chiba-u.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://louisemichelchampigny.ac-creteil.fr/"
+    ],
+    "name": "Lycée LOUISE MICHEL",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "monlycee.net"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.kayseri.edu.tr"
+    ],
+    "name": "Kayseri Üniversitesi",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "kayseri.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.umayor.cl/um/"
+    ],
+    "name": "Universidad Mayor",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "mayor.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.uhcl.edu/"
+    ],
+    "name": "University of Houston - Clear Lake",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uhcl.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.fh-swf.de/de/"
+    ],
+    "name": "Fachhochschule Südwestfalen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "fh-swf.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.artsetmetiers.fr/fr"
+    ],
+    "name": "École nationale supérieure d'Arts et Métiers",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ensam.eu"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.ozyegin.edu.tr/tr"
+    ],
+    "name": "Ozyegin University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "ozu.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.estaca.fr/"
+    ],
+    "name": "ESTACA",
+    "alpha_two_code": "FRF",
+    "state-province": null,
+    "domains": [
+      "estaca.eu"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.utsc.edu.mx"
+    ],
+    "name": "Universidad Tecnológica Santa Catarina",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "utsc.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://unidad.gdl.cinvestav.mx/"
+    ],
+    "name": "CINVESTAV",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "cinvestav.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://msa.edu.eg/"
+    ],
+    "name": "MSA University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "msa.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://www.pm.szczecin.pl/en/"
+    ],
+    "name": "Maritime University of Szczecin",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "pm.szczecin.pl"
+    ],
+    "country": "Poland"
   }
 ]
