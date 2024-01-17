@@ -68269,18 +68269,6 @@
   },
   {
     "web_pages": [
-      "http://www.korea.ac.kr/"
-    ],
-    "name": "Korea University",
-    "alpha_two_code": "KR",
-    "state-province": null,
-    "domains": [
-      "korea.ac.kr"
-    ],
-    "country": "Korea, Republic of"
-  },
-  {
-    "web_pages": [
       "http://www.kosin.ac.kr/"
     ],
     "name": "Kosin University",
@@ -122274,10 +122262,11 @@
     "web_pages": [
       "https://www.avans.nl/"
     ],
-    "name": "avans university of applied sciences",
+    "name": "Avans University of Applied Sciences",
     "alpha_two_code": "NL",
     "state-province": null,
     "domains": [
+      "avans.nl",
       "student.avans.nl"
     ],
     "country": "Netherlands"
@@ -126397,6 +126386,7 @@
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+      "hs-kempten.de",
       "stud.hs-kempten.de"
     ],
     "country": "Germany"
@@ -127541,5 +127531,113 @@
       "pm.szczecin.pl"
     ],
     "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://taltech.ee/en/"
+    ],
+    "name": "Tallinn University of Technology",
+    "alpha_two_code": "EE",
+    "state-province": null,
+    "domains": [
+      "taltech.ee"
+    ],
+    "country": "Estonia"
+  },
+  {
+    "web_pages": [
+      "https://korea.ac.kr/"
+    ],
+    "name": "Korea University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "korea.ac.kr"
+    ],
+    "country": "South Korea"
+  },
+  {
+    "web_pages": [
+      "https://www.gu.edu.eg/"
+    ],
+    "name": "Galala University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "gu.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://www.usk.ac.id"
+    ],
+    "name": "Universitas Syiah Kuala",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "che.usk.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://www.ucv.ro/"
+    ],
+    "name": "University of Craiova",
+    "alpha_two_code": "RO",
+    "state-province": null,
+    "domains": [
+      "student.ucv.ro"
+    ],
+    "country": "Romania"
+  },
+  {
+    "web_pages": [
+      "https://cu.edu.eg/index2.php"
+    ],
+    "name": "Cairo University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "stud.fci-cu.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://www.ifgoiano.edu.br"
+    ],
+    "name": "Instituto Federal Goiano Campus Morrinhos",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ifgoiano.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://cspc.edu.ph/"
+    ],
+    "name": "Camarines sur polytechnic colleges",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "my.cspc.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.ump.edu.my/en"
+    ],
+    "name": "UNIVERSITI MALAYSIA PAHANG AL- SULTAN ABDULLAH",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": [
+      "student.umpsa.edu.my"
+    ],
+    "country": "Malaysia"
   }
 ]
