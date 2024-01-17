@@ -68269,6 +68269,18 @@
   },
   {
     "web_pages": [
+      "https://korea.ac.kr/"
+    ],
+    "name": "Korea University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "korea.ac.kr"
+    ],
+    "country": "South Korea"
+  },
+  {
+    "web_pages": [
       "http://www.kosin.ac.kr/"
     ],
     "name": "Kosin University",
@@ -127477,7 +127489,7 @@
       "https://www.estaca.fr/"
     ],
     "name": "ESTACA",
-    "alpha_two_code": "FRF",
+    "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
       "estaca.eu"
@@ -127543,18 +127555,6 @@
       "taltech.ee"
     ],
     "country": "Estonia"
-  },
-  {
-    "web_pages": [
-      "https://korea.ac.kr/"
-    ],
-    "name": "Korea University",
-    "alpha_two_code": "KR",
-    "state-province": null,
-    "domains": [
-      "korea.ac.kr"
-    ],
-    "country": "South Korea"
   },
   {
     "web_pages": [
@@ -127632,7 +127632,7 @@
     "web_pages": [
       "https://www.ump.edu.my/en"
     ],
-    "name": "UNIVERSITI MALAYSIA PAHANG AL- SULTAN ABDULLAH",
+    "name": "Universiti Malaysia Pahang Al-Sultan Abdullah",
     "alpha_two_code": "MY",
     "state-province": null,
     "domains": [
