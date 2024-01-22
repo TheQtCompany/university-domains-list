@@ -118513,7 +118513,7 @@
   },
   {
     "web_pages": [
-      "https://www.umcs.pl"
+      "https://www.umcs.pl/en/"
     ],
     "name": "Maria Curie-Skłodowska University",
     "alpha_two_code": "PL",
@@ -119593,9 +119593,9 @@
   },
   {
     "web_pages": [
-      "https://pbs.edu.pl"
+      "https://pbs.edu.pl/pl/"
     ],
-    "name": "Bydgoszcz University of Science and Technology",
+    "name": "Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
@@ -121032,7 +121032,7 @@
     "domains": [
       "aluno.ifsc.edu.br"
     ],
-    "country": "Brasil"
+    "country": "Brazil"
   },
   {
     "web_pages": [
@@ -122687,6 +122687,7 @@
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": [
+      "univates.br",
       "universo.univates.br"
     ],
     "country": "Brazil"
@@ -127639,5 +127640,186 @@
       "student.umpsa.edu.my"
     ],
     "country": "Malaysia"
+  },
+  {
+    "web_pages": [
+      "https://www.th-luebeck.de"
+    ],
+    "name": "Technische Hochschule Lübeck",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "stud.th-luebeck.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.maynoothuniversity.ie/"
+    ],
+    "name": "Maynooth University",
+    "alpha_two_code": "IE",
+    "state-province": null,
+    "domains": [
+      "mumail.ie"
+    ],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "https://univ-cotedazur.fr/"
+    ],
+    "name": "Université Côte d'Azur",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "univ.cotedazur.fr",
+      "etu.univ-cotedazur.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://uwr.edu.pl"
+    ],
+    "name": "University of Wrocław",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "uwr.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://uergs.edu.br"
+    ],
+    "name": "Universidade Estadual do Rio Grande do Sul",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "uergs.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.ube-k.ac.jp/"
+    ],
+    "name": "National Institute of Technology, Ube College",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "ube.kosen-ac.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://sltc.ac.lk/"
+    ],
+    "name": "SLTC Research University",
+    "alpha_two_code": "LK",
+    "state-province": null,
+    "domains": [
+      "sltc.ac.lk"
+    ],
+    "country": "Sri Lanka"
+  },
+  {
+    "web_pages": [
+      "https://siegfried.lycee.ac-normandie.fr/"
+    ],
+    "name": "Lycée Jules Siegfried",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-normandie.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.itsgalvani.edu.it"
+    ],
+    "name": "ITIS Luigi Galvani",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "itsgalvani.edu.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://www.aau.ac.ae/en/"
+    ],
+    "name": "Al Ain university",
+    "alpha_two_code": "AE",
+    "state-province": null,
+    "domains": [
+      "aau.ac.ae"
+    ],
+    "country": "United Arab Emirates"
+  },
+  {
+    "web_pages": [
+      "https://www.hcmus.edu.vn/"
+    ],
+    "name": "Ho Chi Minh University of Science",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "student.hcmus.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "http://nakkastepeanadolulisesi.bahcesehir.k12.tr/tr/"
+    ],
+    "name": "Private Nakkaştepe Bahçeşehir College Anatolian High School",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "stu.bahcesehir.k12.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.univh2c.ma/"
+    ],
+    "name": "Université Hassan II de Casablanca",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "tu.univh2c.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "https://www.eastern.edu/"
+    ],
+    "name": "Eastern University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "eastern.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-koblenz.de/home"
+    ],
+    "name": "Hochschule Koblenz",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-koblenz.de"
+    ],
+    "country": "Germany"
   }
 ]
