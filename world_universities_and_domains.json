@@ -47248,13 +47248,14 @@
   },
   {
     "web_pages": [
-      "http://www.andhrauniversity.info/"
+      "https://www.andhrauniversity.edu.in/"
     ],
     "name": "Andhra University",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "andhrauniversity.info"
+      "andhrauniversity.info",
+      "andhrauniversity.edu.in"
     ],
     "country": "India"
   },
@@ -128448,18 +128449,6 @@
     "state-province": null,
     "domains": [
       "sgei.org"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "www.andhrauniversity.edu.in"
-    ],
-    "name": "Andhra University",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "andhrauniversity.edu.in"
     ],
     "country": "India"
   },
