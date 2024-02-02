@@ -86050,13 +86050,14 @@
   },
   {
     "web_pages": [
-      "http://www.ugal.ro/"
+      "https://www.ugal.ro/"
     ],
-    "name": "University of Galatzi",
+    "name": "Universitatea \"Dunarea de Jos\" Galati",
     "alpha_two_code": "RO",
     "state-province": null,
     "domains": [
-      "ugal.ro"
+      "ugal.ro",
+      "student.ugal.ro"
     ],
     "country": "Romania"
   },
@@ -119877,7 +119878,8 @@
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "anstar.edu.pl"
+      "anstar.edu.pl",
+      "student.atar.edu.pl"
     ],
     "country": "Poland"
   },
@@ -127108,7 +127110,7 @@
   },
   {
     "web_pages": [
-      "https://www.ipn.mx"
+      "https://www.ipn.mx/"
     ],
     "name": "Instituto Politécnico Nacional",
     "alpha_two_code": "MX",
@@ -127591,7 +127593,7 @@
     "web_pages": [
       "https://www.ucv.ro/"
     ],
-    "name": "University of Craiova",
+    "name": "Universitatea din Craiova",
     "alpha_two_code": "RO",
     "state-province": null,
     "domains": [
@@ -128787,5 +128789,329 @@
       "colegiomiralmonte.es"
     ],
     "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://embuni.ac.ke/"
+    ],
+    "name": "University of Embu",
+    "alpha_two_code": "KE",
+    "state-province": null,
+    "domains": [
+      "student.embuni.ac.ke"
+    ],
+    "country": "Kenya"
+  },
+  {
+    "web_pages": [
+      "https://www.unicampus.it"
+    ],
+    "name": "Università Campus Bio-Medico di Roma",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "alcampus.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://www.handong.edu/"
+    ],
+    "name": "Handong Global University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "handong.ac.kr"
+    ],
+    "country": "South Korea"
+  },
+  {
+    "web_pages": [
+      "https://www.gdust.edu.cn/"
+    ],
+    "name": "Guangdong University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "gdust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.uncuyo.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Cuyo",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "uncuyo.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.ufca.edu.br/"
+    ],
+    "name": "Universidade Federal do Cariri",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "aluno.ufca.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://etab.ac-reunion.fr/lyc-jean-perrin/"
+    ],
+    "name": "Lycee Professionel Jean-Perrin Academie de la Reunion",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-reunion.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.summacollege.nl/"
+    ],
+    "name": "Summa College",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "summacollege.nl"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
+      "https://st2m.be/"
+    ],
+    "name": "Sainte Marie",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "ismseraing.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.unilasalle.fr/"
+    ],
+    "name": "UniLaSalle Institut Polytechnique",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etu.unilasalle.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://hoffmanowa.pl/"
+    ],
+    "name": "IX Liceum Ogólnokształcące im. Klementyny Hoffmanowej",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "hoffmanowa.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://ueuromed.org/"
+    ],
+    "name": "Euromed University of Fes",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "eidia.ueuromed.org"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "https://1337.ma/"
+    ],
+    "name": "1337 Coding School",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "student.1337.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "https://animschool.edu/"
+    ],
+    "name": "AnimSchool",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "student.animschool.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.featiu.edu.ph"
+    ],
+    "name": "FEATI University",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "myfeatiu.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.alliance.edu.in/"
+    ],
+    "name": "Alliance University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ced.alliance.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.iccs.ac.in/"
+    ],
+    "name": "Indira College of Commerce and Science",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iccs.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.agu.edu.vn/"
+    ],
+    "name": "An Giang University",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "agu.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.trabzon.edu.tr/"
+    ],
+    "name": "Trabzon University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "trabzon.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://enrollbasistx.com/shavano/"
+    ],
+    "name": "BASIS San Antonio Shavano Campus",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "basised.com"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.utm.rnu.tn"
+    ],
+    "name": "Université de Tunis El Manar",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "etudiant-enit.utm.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "http://www.aastu.edu.et/"
+    ],
+    "name": "Addis Ababa Science and Technology University",
+    "alpha_two_code": "ET",
+    "state-province": null,
+    "domains": [
+      "aastustudent.edu.et"
+    ],
+    "country": "Ethiopia"
+  },
+  {
+    "web_pages": [
+      "https://www.insa-strasbourg.fr"
+    ],
+    "name": "INSA Strasbourg",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "insa-strasbourg.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://inha.uz/"
+    ],
+    "name": "Inha University in Tashkent",
+    "alpha_two_code": "UZ",
+    "state-province": null,
+    "domains": [
+      "student.inha.uz"
+    ],
+    "country": "Uzbekistan"
+  },
+  {
+    "web_pages": [
+      "https://www.nmu.org.ua"
+    ],
+    "name": "Dnipro University of Technology",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "nmu.one"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://webitlg.portail.itlg.be/"
+    ],
+    "name": "ITLG, Institut de Technologie",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "portail.itlg.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.ulb.be/en"
+    ],
+    "name": "Université Libre de Bruxelles",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "ulb.be"
+    ],
+    "country": "Belgium"
   }
 ]
