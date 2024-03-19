@@ -129561,5 +129561,18 @@
       "gcet.edu.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.epsi.fr/"
+    ],
+    "name": "EPSI",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "epsi.fr",
+      "ecoles-epsi.net"
+    ],
+    "country": "France"
   }
 ]
