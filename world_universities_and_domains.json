@@ -129278,7 +129278,7 @@
       "www.scheppers-wetteren.be"
     ],
     "name": "Scheppersinstituut",
-    "alpha_two_code": "BG",
+    "alpha_two_code": "BE",
     "state-province": null,
     "domains": [
       "scheppers-wetteren.be"
@@ -129311,7 +129311,7 @@
   },
   {
     "web_pages": [
-      "bssm.hs.kr/"
+      "http://bssm.hs.kr"
     ],
     "name": "Busan Software Mester High School",
     "alpha_two_code": "KR",
@@ -129371,7 +129371,7 @@
   },
   {
     "web_pages": [
-      "www.nagano-nct.ac.jp"
+      "https://www.nagano-nct.ac.jp"
     ],
     "name": "National Institute of Technology, Nagano College",
     "alpha_two_code": "JP",
@@ -129383,7 +129383,7 @@
   },
   {
     "web_pages": [
-      "www.supinfo.com"
+      "https://www.supinfo.com"
     ],
     "name": "Supinfo",
     "alpha_two_code": "FR",
@@ -129395,7 +129395,7 @@
   },
   {
     "web_pages": [
-      "https://www.klu.edu.tr/"
+      "https://www.klu.edu.tr"
     ],
     "name": "Kirklareli univeritesi",
     "alpha_two_code": "TR",
@@ -129403,7 +129403,7 @@
     "domains": [
       "ogr.klu.edu.tr"
     ],
-    "country": "Turkey "
+    "country": "Turkey"
   },
   {
     "web_pages": [
@@ -129419,7 +129419,7 @@
   },
   {
     "web_pages": [
-      "www.htl-salzburg.ac.at/"
+      "https://www.htl-salzburg.ac.at"
     ],
     "name": "HTBLuVA Salzburg",
     "alpha_two_code": "AT",
@@ -129444,7 +129444,7 @@
   },
   {
     "web_pages": [
-      "kozmos.k12.tr/"
+      "http://kozmos.k12.tr"
     ],
     "name": "Kozmos Yazilim Anadolu Lisesi",
     "alpha_two_code": "TR",
@@ -129468,7 +129468,7 @@
   },
   {
     "web_pages": [
-      "https://www.uneatlantico.es/"
+      "https://www.uneatlantico.es"
     ],
     "name": "Universidad Europea del Atlantico",
     "alpha_two_code": "ES",
@@ -129480,7 +129480,7 @@
   },
   {
     "web_pages": [
-      "https://saskpolytech.ca/"
+      "https://saskpolytech.ca"
     ],
     "name": "Saskatchewan Polytechnic",
     "alpha_two_code": "CA",
@@ -129492,7 +129492,7 @@
   },
   {
     "web_pages": [
-      "https://utahtech.edu/"
+      "https://utahtech.edu"
     ],
     "name": "Utah Tech University",
     "alpha_two_code": "US",
@@ -129504,7 +129504,7 @@
   },
   {
     "web_pages": [
-      "https://www.plus.ac.at/"
+      "https://www.plus.ac.at"
     ],
     "name": "Paris Lodron University Salzburg",
     "alpha_two_code": "AT",
@@ -129516,7 +129516,7 @@
   },
   {
     "web_pages": [
-      "https://www.univ-rennes.fr/"
+      "https://www.univ-rennes.fr"
     ],
     "name": "Universite de Rennes",
     "alpha_two_code": "FR",
@@ -129540,7 +129540,7 @@
   },
   {
     "web_pages": [
-      "www.dsce.edu.in/"
+      "https://www.dsce.edu.in"
     ],
     "name": "Dayananda Sagar College of Engineering",
     "alpha_two_code": "IN",
