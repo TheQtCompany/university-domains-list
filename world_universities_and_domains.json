@@ -43921,7 +43921,8 @@
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "srh-berlin.de"
+      "srh-berlin.de",
+      "srh.de"
     ],
     "country": "Germany"
   },
@@ -44077,7 +44078,8 @@
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "tu-darmstadt.de"
+      "tu-darmstadt.de",
+      "stud.tu-darmstadt.de"
     ],
     "country": "Germany"
   },
@@ -69033,7 +69035,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "sejong.ac.kr"
+      "sejong.ac.kr",
+      "sju.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -122153,7 +122156,8 @@
     "domains": [
       "ce.student.pens.ac.id",
       "me.student.pens.ac.id",
-      "iet.student.pens.ac.id"
+      "iet.student.pens.ac.id",
+      "ee.student.pens.ac.id"
     ],
     "country": "Indonesia"
   },
@@ -130889,5 +130893,89 @@
       "mail.uft.edu.br"
     ],
     "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.fafu.edu.cn"
+    ],
+    "name": "Fujian Agriculture and Forestry University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "fafu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://unisabaneta.edu.co/"
+    ],
+    "name": "Universidad de Sabaneta",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unisabaneta.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://www.fh-campuswien.ac.at"
+    ],
+    "name": "FH Campus Wien",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "fh-campuswien.ac.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://www.phwt.de"
+    ],
+    "name": "Private Hochschule für Wirtschaft und Technik",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "stud.phwt.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://cyiut.cyu.fr/"
+    ],
+    "name": "IUT de Cergy Pontoise",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etu.cyu.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://univ-khenchela.com/"
+    ],
+    "name": "University of Khenchela",
+    "alpha_two_code": "DZ",
+    "state-province": null,
+    "domains": [
+      "univ-khenchela.dz"
+    ],
+    "country": "Algeria"
+  },
+  {
+    "web_pages": [
+      "https://uet.edu.al/"
+    ],
+    "name": "European University of Tirana",
+    "alpha_two_code": "AL",
+    "state-province": null,
+    "domains": [
+      "uet.edu.al"
+    ],
+    "country": "Albania"
   }
 ]
