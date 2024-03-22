@@ -73238,7 +73238,8 @@
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": [
-      "cetys.mx"
+      "cetys.mx",
+      "cetys.edu.mx"
     ],
     "country": "Mexico"
   },
@@ -130339,5 +130340,125 @@
       "bue.edu.eg"
     ],
     "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://www.lasallemorelia.edu.mx/"
+    ],
+    "name": "La Salle Morelia",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ulsamorelia.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://htcgsc.edu.ph"
+    ],
+    "name": "Holy Trinity College of General Santos City",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "online.htcgsc.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://www.unison.mx"
+    ],
+    "name": "Universidad de Sonora",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unison.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.parisnanterre.fr/"
+    ],
+    "name": "Universite Paris Nanterre",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "parisnanterre.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.must.edu.mo/"
+    ],
+    "name": "Macau University of Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "student.must.edu.mo"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.tsguas.edu.cn/"
+    ],
+    "name": "Tianjin Sino-German university of applied science",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "tsguas.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cauc.edu.cn"
+    ],
+    "name": "Civil Aviation University of China",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cauc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.bbc.edu.cn"
+    ],
+    "name": "BengBu university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "bbc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.mju.edu.cn/"
+    ],
+    "name": "Minjiang University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.mju.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.hfnu.edu.cn/"
+    ],
+    "name": "Hefei Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "shfnu.edu.cn"
+    ],
+    "country": "China"
   }
 ]
