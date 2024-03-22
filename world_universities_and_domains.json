@@ -29185,7 +29185,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "hfut.edu.cn"
+      "hfut.edu.cn",
+      "mail.hfut.edu.cn"
     ],
     "country": "China"
   },
@@ -32667,7 +32668,8 @@
     "alpha_two_code": "CO",
     "state-province": null,
     "domains": [
-      "lasalle.edu.co"
+      "lasalle.edu.co",
+      "unisalle.edu.co"
     ],
     "country": "Colombia"
   },
@@ -54939,7 +54941,8 @@
     "alpha_two_code": "IR",
     "state-province": "Yazd",
     "domains": [
-      "iauyazd.ac.ir"
+      "iauyazd.ac.ir",
+      "stu.yazd.ac.ir"
     ],
     "country": "Iran"
   },
@@ -120440,7 +120443,8 @@
     "alpha_two_code": "TN",
     "state-province": null,
     "domains": [
-      "enit.utm.tn"
+      "enit.utm.tn",
+      "etudiant-enit.utm.tn"
     ],
     "country": "Tunisia"
   },
@@ -130717,5 +130721,173 @@
       "univ-constantine3.dz"
     ],
     "country": "Algeria"
+  },
+  {
+    "web_pages": [
+      "https://www.gduf.edu.cn/"
+    ],
+    "name": "Guangdong University of Finance",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "m.gduf.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.gufe.edu.cn/"
+    ],
+    "name": "Guizhou University of Finance and Economics",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.gufe.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.nufe.edu.cn/"
+    ],
+    "name": "Nanjing University of Finance & Economics",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "nufe.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cuhk.edu.hk/"
+    ],
+    "name": "The Chinese university of Hong Kong",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "link.cuhk.edu.hk"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.iisertvm.ac.in/"
+    ],
+    "name": "Indian Institute of Science Education and Research Thiruvananthapuram",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iisertvm.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.nssce.ac.in/"
+    ],
+    "name": "Nss College of Engineering Palakkad",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nssce.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://newuu.uz/"
+    ],
+    "name": "New Uzbekistan university",
+    "alpha_two_code": "UZ",
+    "state-province": null,
+    "domains": [
+      "newuu.uz"
+    ],
+    "country": "Uzbekistan"
+  },
+  {
+    "web_pages": [
+      "https://www.uninter.com"
+    ],
+    "name": "UNINTER",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "alunouninter.com"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://pascualbravo.edu.co/"
+    ],
+    "name": "Institucion universitaria pascualbravo",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "pascualbravo.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://universitam.edu.mx/"
+    ],
+    "name": "Universitario tecnologico universitam",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "universitam.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.saint-gab.com/"
+    ],
+    "name": "Saint Gab",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "saint-gab.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.cegep-heritage.qc.ca/"
+    ],
+    "name": "CEGEP Heritage College",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "cegep-heritage.qc.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://www.iff.edu.br"
+    ],
+    "name": "IFF Fluminense Federal Instituto",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "gsuite.iff.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://ww2.uft.edu.br"
+    ],
+    "name": "Universidade Federal do Tocantins",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "mail.uft.edu.br"
+    ],
+    "country": "Brazil"
   }
 ]
