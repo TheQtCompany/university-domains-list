@@ -27978,13 +27978,14 @@
   },
   {
     "web_pages": [
-      "http://www.cauc.edu/"
+      "https://www.cauc.edu.cn"
     ],
     "name": "Civil Aviation University of China",
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "cauc.edu"
+      "cauc.edu",
+      "cauc.edu.cn"
     ],
     "country": "China"
   },
@@ -49012,13 +49013,14 @@
   },
   {
     "web_pages": [
-      "http://www.jadavpur.edu/"
+      "https://jadavpuruniversity.in"
     ],
     "name": "Jadavpur University",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "jadavpur.edu"
+      "jadavpur.edu",
+      "jadavpuruniversity.in"
     ],
     "country": "India"
   },
@@ -74962,13 +74964,14 @@
   },
   {
     "web_pages": [
-      "http://www.uson.mx/"
+      "https://www.unison.mx/"
     ],
     "name": "Universidad de Sonora",
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": [
-      "uson.mx"
+      "uson.mx",
+      "unison.mx"
     ],
     "country": "Mexico"
   },
@@ -119906,7 +119909,8 @@
     "state-province": null,
     "domains": [
       "anstar.edu.pl",
-      "student.atar.edu.pl"
+      "student.atar.edu.pl",
+      "atar.edu.pl"
     ],
     "country": "Poland"
   },
@@ -127932,7 +127936,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "umgc.edu"
+      "umgc.edu",
+      "student.umgc.edu"
     ],
     "country": "United States"
   },
@@ -130367,18 +130372,6 @@
   },
   {
     "web_pages": [
-      "https://www.unison.mx"
-    ],
-    "name": "Universidad de Sonora",
-    "alpha_two_code": "MX",
-    "state-province": null,
-    "domains": [
-      "unison.mx"
-    ],
-    "country": "Mexico"
-  },
-  {
-    "web_pages": [
       "https://www.parisnanterre.fr/"
     ],
     "name": "Universite Paris Nanterre",
@@ -130410,18 +130403,6 @@
     "state-province": null,
     "domains": [
       "tsguas.edu.cn"
-    ],
-    "country": "China"
-  },
-  {
-    "web_pages": [
-      "https://www.cauc.edu.cn"
-    ],
-    "name": "Civil Aviation University of China",
-    "alpha_two_code": "CN",
-    "state-province": null,
-    "domains": [
-      "cauc.edu.cn"
     ],
     "country": "China"
   },
@@ -130460,5 +130441,281 @@
       "shfnu.edu.cn"
     ],
     "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://pec.ac.in/"
+    ],
+    "name": "Punjab Engineering college",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "pec.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://drait.edu.in/"
+    ],
+    "name": "Dr. Ambedkar Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "drait.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.iiitdmj.ac.in/"
+    ],
+    "name": "Indian Institute Of Information Technology Jabalpur",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iiitdmj.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://rgipt.ac.in"
+    ],
+    "name": "Rajiv Gandhi Institute of Petroleum Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "rgipt.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.jietjodhpur.ac.in"
+    ],
+    "name": "Jodhpur Institute of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "jietjodhpur.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://uem.edu.in/"
+    ],
+    "name": "University of Engineering and Management",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "uem.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://srisriuniversity.edu.in/"
+    ],
+    "name": "Sri Sri University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srisriuniversity.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://vnit.ac.in/"
+    ],
+    "name": "Visvesvaraya national institute of technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "students.vnit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://sfit.ac.in/"
+    ],
+    "name": "St. Francis Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "student.sfit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.msrit.edu/"
+    ],
+    "name": "M.S.Ramaiah Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "msruas.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://iiitranchi.ac.in/"
+    ],
+    "name": "Indian Institute of Information Technology, Ranchi",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iiitranchi.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://ghrietn.raisoni.net/"
+    ],
+    "name": "G H Raisoni Institute of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ghrietn.raisoni.net"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://kingsedu.ac.in/"
+    ],
+    "name": "Kings Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "kingsedu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://kce.ac.in/"
+    ],
+    "name": "Karpagam college of Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "kce.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://ensta-bretagne.fr"
+    ],
+    "name": "ENSTA Bretagne",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ensta-bretagne.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://namal.edu.pk/"
+    ],
+    "name": "Namal University",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "namal.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.oxfordcollege.edu.np/"
+    ],
+    "name": "Oxford College of engineering and Management",
+    "alpha_two_code": "NP",
+    "state-province": null,
+    "domains": [
+      "oxfordcollege.edu.np"
+    ],
+    "country": "Nepal"
+  },
+  {
+    "web_pages": [
+      "https://crestwood.on.ca"
+    ],
+    "name": "Crestwood Prepatory College",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "crestwood.on.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://lgu.edu.pk/"
+    ],
+    "name": "Lahore Garrison University",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "lgu.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.felsted.org"
+    ],
+    "name": "Felsted",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "felsted.org"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://just.edu.bd/"
+    ],
+    "name": "Jashore University of Science and Technology",
+    "alpha_two_code": "BD",
+    "state-province": null,
+    "domains": [
+      "student.just.edu.bd"
+    ],
+    "country": "Bangladesh"
+  },
+  {
+    "web_pages": [
+      "https://ufrb.edu.br/"
+    ],
+    "name": "Universidade Federal do Reconcavo da Bahia",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "aluno.ufrb.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://univ-constantine3.dz/"
+    ],
+    "name": "Constantine3 University",
+    "alpha_two_code": "DZ",
+    "state-province": null,
+    "domains": [
+      "univ-constantine3.dz"
+    ],
+    "country": "Algeria"
   }
 ]
