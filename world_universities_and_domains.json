@@ -131124,5 +131124,113 @@
       "hvl.no"
     ],
     "country": "Norway"
+  },
+  {
+    "web_pages": [
+      "https://www.cmu.ac.th/"
+    ],
+    "name": "Chiang Mai University",
+    "alpha_two_code": "TH",
+    "state-province": null,
+    "domains": [
+      "cmu.ac.th"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "web_pages": [
+      "https://bogazici.edu.tr/"
+    ],
+    "name": "Boğaziçi University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "std.bogazici.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.cloviscollege.edu/"
+    ],
+    "name": "Clovis Community College, Herndon Campus",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "my.scccd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://pcb.edu.ph/"
+    ],
+    "name": "Polytechnic College of Botolan",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "pcb.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://khmnu.edu.ua/"
+    ],
+    "name": "Khmelnytskyi National University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "khmnu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://aror.edu.pk/"
+    ],
+    "name": "Aror university of Art, Architecture, Design and Heritage",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "aror.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://seamk.fi"
+    ],
+    "name": "Seinäjoki University of Applied Sciences",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "seamk.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "https://www.claflin.edu/"
+    ],
+    "name": "Claflin University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "claflin.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://stu.cn.ua/"
+    ],
+    "name": "Chernihiv Polytechnic National University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "stu.cn.ua"
+    ],
+    "country": "Ukraine"
   }
 ]
