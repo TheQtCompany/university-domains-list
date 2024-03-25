@@ -84238,13 +84238,14 @@
   },
   {
     "web_pages": [
-      "http://www.univ.gda.pl/"
+      "https://en.ug.edu.pl"
     ],
     "name": "University of Gdansk",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "univ.gda.pl"
+      "univ.gda.pl",
+      "studms.ug.edu.pl"
     ],
     "country": "Poland"
   },
@@ -93842,7 +93843,8 @@
     "alpha_two_code": "LK",
     "state-province": null,
     "domains": [
-      "kln.ac.lk"
+      "kln.ac.lk",
+      "stu.kln.ac.lk"
     ],
     "country": "Sri Lanka"
   },
@@ -99100,7 +99102,8 @@
     "state-province": null,
     "domains": [
       "konya.edu.tr",
-      "erbakan.edu.tr"
+      "erbakan.edu.tr",
+      "ogr.erbakan.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -130977,5 +130980,149 @@
       "uet.edu.al"
     ],
     "country": "Albania"
+  },
+  {
+    "web_pages": [
+      "https://rkgit.edu.in/"
+    ],
+    "name": "Raj Kumar Goel Insititue Of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "rkgit.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://vbithyd.ac.in/"
+    ],
+    "name": "Vignana Bharathi Institute of science and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vbithyd.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.ksriet.ac.in/"
+    ],
+    "name": "KSR Institute for engineering and technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ksriet.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.lnmiit.ac.in/"
+    ],
+    "name": "The LNM Institute of Information Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "lnmiit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://ztu.edu.ua/"
+    ],
+    "name": "Zhytomyr Polytechnic",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "student.ztu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://pstu.edu/en/"
+    ],
+    "name": "State Higher Educational Institution «Pryazovskyi State Technical University»",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "pstu.edu"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://jgec.ac.in/"
+    ],
+    "name": "Jalpaiguri Government Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "cse.jgec.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://cvsu.edu.ph/"
+    ],
+    "name": "Cavite State University",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "cvsu.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://kiut.uz/en/"
+    ],
+    "name": "Kimyo International University in Tashkent",
+    "alpha_two_code": "UZ",
+    "state-province": null,
+    "domains": [
+      "kiut.uz"
+    ],
+    "country": "Uzbekistan"
+  },
+  {
+    "web_pages": [
+      "https://www.ensit.tn/"
+    ],
+    "name": "École nationale supérieure d'ingénieurs de Tunis",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "ensit.u-tunis.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://www.academia.si/"
+    ],
+    "name": "Academia Institute of Technology",
+    "alpha_two_code": "SI",
+    "state-province": null,
+    "domains": [
+      "academiavss.si"
+    ],
+    "country": "Slovenia"
+  },
+  {
+    "web_pages": [
+      "https://www.hvl.no/en/"
+    ],
+    "name": "Western Norway University of Applied Sciences",
+    "alpha_two_code": "NO",
+    "state-province": null,
+    "domains": [
+      "hvl.no"
+    ],
+    "country": "Norway"
   }
 ]
