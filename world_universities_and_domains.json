@@ -21783,7 +21783,8 @@
     "alpha_two_code": "BW",
     "state-province": null,
     "domains": [
-      "ub.bw"
+      "ub.bw",
+      "ub.ac.bw"
     ],
     "country": "Botswana"
   },
@@ -41888,11 +41889,12 @@
     "web_pages": [
       "http://www.fh-bielefeld.de/"
     ],
-    "name": "Fachhochschule Bielefeld",
+    "name": "Hochschule Bielefeld",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-bielefeld.de"
+      "fh-bielefeld.de",
+      "hsbi.de"
     ],
     "country": "Germany"
   },
@@ -91370,7 +91372,8 @@
     "alpha_two_code": "SN",
     "state-province": null,
     "domains": [
-      "ugb.sn"
+      "ugb.sn",
+      "ugb.edu.sn"
     ],
     "country": "Senegal"
   },
@@ -98972,13 +98975,15 @@
   },
   {
     "web_pages": [
-      "http://www.iticu.edu.tr/"
+      "https://ticaret.edu.tr"
     ],
     "name": "Istanbul Ticaret University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "iticu.edu.tr"
+      "iticu.edu.tr",
+      "ticaret.edu.tr",
+      "istanbulticaret.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -105730,13 +105735,14 @@
   },
   {
     "web_pages": [
-      "http://www.iszu.edu.tr/"
+      "https://www.izu.edu.tr"
     ],
     "name": "Istanbul Sabahattin Zaim University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "iszu.edu.tr"
+      "iszu.edu.tr",
+      "std.izu.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -131474,5 +131480,210 @@
       "umary.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.cafuc.edu.cn"
+    ],
+    "name": "Civil Aviation Flight University of China",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cafuc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cupk.edu.cn/"
+    ],
+    "name": "China University of Petroleum at Karama",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cupk.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://42yerevan.am/"
+    ],
+    "name": "42 School Yerevan",
+    "alpha_two_code": "AM",
+    "state-province": null,
+    "domains": [
+      "student.42yerevan.am"
+    ],
+    "country": "Armenia"
+  },
+  {
+    "web_pages": [
+      "https://www.esi.dz"
+    ],
+    "name": "Ecole nationale Superieure d’Informatique ESI",
+    "alpha_two_code": "DZ",
+    "state-province": null,
+    "domains": [
+      "esi.dz"
+    ],
+    "country": "Algeria"
+  },
+  {
+    "web_pages": [
+      "https://celaya.tecnm.mx/"
+    ],
+    "name": "Instituto Tecnologico de Mexico en Celaya",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itcelaya.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://42lyon.fr/"
+    ],
+    "name": "42 Lyon Auvergne-Rhone-Alpes",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "42lyon.fr",
+      "student.42lyon.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.iberopuebla.mx/"
+    ],
+    "name": "Universidad Iberoamericana Puebla",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "iberopuebla.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.isimg.rnu.tn/"
+    ],
+    "name": "ISIM Gabes",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "isimg.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://cytech.cyu.fr/"
+    ],
+    "name": "CY Tech",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "cy-tech.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.minesparis.psl.eu/"
+    ],
+    "name": "Ecole des Mines Paris - PSL",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etu.minesparis.psl.eu"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://bakircay.edu.tr/"
+    ],
+    "name": "Izmir Bakircay University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "bakircay.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://apu.edu.my/"
+    ],
+    "name": "Asia Pacific University of Technology",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": [
+      "mail.apu.edu.my"
+    ],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": [
+      "https://www.cca.edu/"
+    ],
+    "name": "California College of the Arts",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cca.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://uniba.cm/"
+    ],
+    "name": "University of Bamenda",
+    "alpha_two_code": "CM",
+    "state-province": null,
+    "domains": [
+      "uniba.cm"
+    ],
+    "country": "Cameroon"
+  },
+  {
+    "web_pages": [
+      "https://www.uel.edu.vn/"
+    ],
+    "name": "University of Economics and Law",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "st.uel.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.uniecampus.it/"
+    ],
+    "name": "Ecampus university",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "studenti.uniecampus.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://mcast.edu.mt/"
+    ],
+    "name": "Malta College of Arts, Science and Technology",
+    "alpha_two_code": "MT",
+    "state-province": null,
+    "domains": [
+      "mcast.edu.mt"
+    ],
+    "country": "Malta"
   }
 ]
