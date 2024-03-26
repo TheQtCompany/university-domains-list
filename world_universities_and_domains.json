@@ -1115,7 +1115,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "phsc.edu"
+      "phsc.edu",
+      "student.phsc.edu"
     ],
     "country": "United States"
   },
@@ -11233,13 +11234,14 @@
   },
   {
     "web_pages": [
-      "http://www.tju.edu/"
+      "https://www.jefferson.edu"
     ],
     "name": "Thomas Jefferson University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "tju.edu"
+      "tju.edu",
+      "jefferson.edu"
     ],
     "country": "United States"
   },
@@ -21781,7 +21783,8 @@
     "alpha_two_code": "BW",
     "state-province": null,
     "domains": [
-      "ub.bw"
+      "ub.bw",
+      "ub.ac.bw"
     ],
     "country": "Botswana"
   },
@@ -26195,7 +26198,8 @@
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "tru.ca"
+      "tru.ca",
+      "mytru.ca"
     ],
     "country": "Canada"
   },
@@ -26285,13 +26289,14 @@
   },
   {
     "web_pages": [
-      "http://www.ucs.mun.ca/"
+      "https://mun.ca"
     ],
     "name": "Memorial University of Newfoundland",
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "ucs.mun.ca"
+      "ucs.mun.ca",
+      "mun.ca"
     ],
     "country": "Canada"
   },
@@ -26328,18 +26333,6 @@
     "state-province": null,
     "domains": [
       "uleth.ca"
-    ],
-    "country": "Canada"
-  },
-  {
-    "web_pages": [
-      "http://www.umanitoba.ca/"
-    ],
-    "name": "University of Manitoba",
-    "alpha_two_code": "CA",
-    "state-province": null,
-    "domains": [
-      "umanitoba.ca"
     ],
     "country": "Canada"
   },
@@ -29552,13 +29545,14 @@
   },
   {
     "web_pages": [
-      "http://www.ipdbuu.com.cn/"
+      "https://english.buu.edu.cn"
     ],
     "name": "Beijing Union University",
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "ipdbuu.com.cn"
+      "ipdbuu.com.cn",
+      "buu.edu.cn"
     ],
     "country": "China"
   },
@@ -30136,18 +30130,6 @@
     "state-province": null,
     "domains": [
       "njuts.cn"
-    ],
-    "country": "China"
-  },
-  {
-    "web_pages": [
-      "http://nku.nankai.edu.cn/"
-    ],
-    "name": "Nankai University",
-    "alpha_two_code": "CN",
-    "state-province": null,
-    "domains": [
-      "nku.nankai.edu.cn"
     ],
     "country": "China"
   },
@@ -30838,13 +30820,14 @@
   },
   {
     "web_pages": [
-      "http://www.shufe.edu.cn/"
+      "https://www.sufe.edu.cn"
     ],
     "name": "Shanghai University of Finance and Economics",
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "shufe.edu.cn"
+      "shufe.edu.cn",
+      "stu.sufe.edu.cn"
     ],
     "country": "China"
   },
@@ -41908,11 +41891,12 @@
     "web_pages": [
       "http://www.fh-bielefeld.de/"
     ],
-    "name": "Fachhochschule Bielefeld",
+    "name": "Hochschule Bielefeld",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-bielefeld.de"
+      "fh-bielefeld.de",
+      "hsbi.de"
     ],
     "country": "Germany"
   },
@@ -50465,7 +50449,8 @@
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "psgtech.edu"
+      "psgtech.edu",
+      "psgtech.ac.in"
     ],
     "country": "India"
   },
@@ -73614,13 +73599,14 @@
   },
   {
     "web_pages": [
-      "http://members.rotfl.com/uvp/"
+      "https://uvp.mx"
     ],
     "name": "Universidad del Valle de Puebla",
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": [
-      "members.rotfl.com"
+      "members.rotfl.com",
+      "uvp.edu.mx"
     ],
     "country": "Mexico"
   },
@@ -74184,7 +74170,8 @@
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": [
-      "udem.edu.mx"
+      "udem.edu.mx",
+      "udem.edu"
     ],
     "country": "Mexico"
   },
@@ -76640,7 +76627,8 @@
     "alpha_two_code": "NZ",
     "state-province": null,
     "domains": [
-      "canterbury.ac.nz"
+      "canterbury.ac.nz",
+      "uclive.ac.nz"
     ],
     "country": "New Zealand"
   },
@@ -80434,7 +80422,8 @@
     "alpha_two_code": "PS",
     "state-province": null,
     "domains": [
-      "ppu.edu"
+      "ppu.edu",
+      "ppu.edu.ps"
     ],
     "country": "Palestine, State of"
   },
@@ -84196,7 +84185,8 @@
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "wsei.lublin.pl"
+      "wsei.lublin.pl",
+      "studentwsei.pl"
     ],
     "country": "Poland"
   },
@@ -91387,7 +91377,8 @@
     "alpha_two_code": "SN",
     "state-province": null,
     "domains": [
-      "ugb.sn"
+      "ugb.sn",
+      "ugb.edu.sn"
     ],
     "country": "Senegal"
   },
@@ -92987,7 +92978,8 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "ub.es"
+      "ub.es",
+      "alumnes.ub.edu"
     ],
     "country": "Spain"
   },
@@ -98988,13 +98980,15 @@
   },
   {
     "web_pages": [
-      "http://www.iticu.edu.tr/"
+      "https://ticaret.edu.tr"
     ],
     "name": "Istanbul Ticaret University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "iticu.edu.tr"
+      "iticu.edu.tr",
+      "ticaret.edu.tr",
+      "istanbulticaret.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -104742,7 +104736,8 @@
     "alpha_two_code": "ZM",
     "state-province": null,
     "domains": [
-      "unza.zm"
+      "unza.zm",
+      "student.unza.zm"
     ],
     "country": "Zambia"
   },
@@ -105746,13 +105741,14 @@
   },
   {
     "web_pages": [
-      "http://www.iszu.edu.tr/"
+      "https://www.izu.edu.tr"
     ],
     "name": "Istanbul Sabahattin Zaim University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "iszu.edu.tr"
+      "iszu.edu.tr",
+      "std.izu.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -119956,7 +119952,8 @@
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "umanitoba.ca"
+      "umanitoba.ca",
+      "myumanitoba.ca"
     ],
     "country": "Canada"
   },
@@ -124023,7 +124020,8 @@
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "ecole.ensicaen.fr"
+      "ecole.ensicaen.fr",
+      "ensicaen.fr"
     ],
     "country": "France"
   },
@@ -124563,7 +124561,8 @@
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": [
-      "aluno.cefetmg.br"
+      "aluno.cefetmg.br",
+      "cefetmg.br"
     ],
     "country": "Brazil"
   },
@@ -124959,7 +124958,9 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "mail.nankai.edu.cn"
+      "mail.nankai.edu.cn",
+      "nku.nankai.edu.cn",
+      "nankai.edu.cn"
     ],
     "country": "China"
   },
@@ -125998,7 +125999,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "stu.xpu.edu.cn"
+      "stu.xpu.edu.cn",
+      "xpu.edu.cn"
     ],
     "country": "China"
   },
@@ -131221,5 +131223,848 @@
       "stu.cn.ua"
     ],
     "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "http://english.zucc.edu.cn/"
+    ],
+    "name": "Hangzhou City University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.hzcu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.xcu.edu.cn/"
+    ],
+    "name": "Xuchang University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "xcu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cdtu.edu.cn"
+    ],
+    "name": "Chengdu Technological University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cdtu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.gla.ac.in/"
+    ],
+    "name": "GLA University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "gla.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://ucu.edu.ua/"
+    ],
+    "name": "Ukrainian Catholic University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "ucu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.prumkadc.cz/"
+    ],
+    "name": "VOS Prumyslova Skola Decin",
+    "alpha_two_code": "CZ",
+    "state-province": null,
+    "domains": [
+      "prumkadc.cz"
+    ],
+    "country": "Czech Republic"
+  },
+  {
+    "web_pages": [
+      "https://cua.uam.mx/"
+    ],
+    "name": "Universidad Autónoma Metropolitana, Cuajimalpa",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "cua.uam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.ecole-hexagone.com/fr/fr/"
+    ],
+    "name": "École Hexagone",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ecole-hexagone.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://psu.edu.eg/"
+    ],
+    "name": "Port Said University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "eng.psu.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://isparta.edu.tr/"
+    ],
+    "name": "Isparta Uygulamali Bilimler Üniversitesi",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "isparta.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.bigrock.it"
+    ],
+    "name": "Bigrock",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "bigrock.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://www.ensia.edu.dz/"
+    ],
+    "name": "National Higher School of Artificial Intelligence",
+    "alpha_two_code": "DZ",
+    "state-province": null,
+    "domains": [
+      "ensia.edu.dz"
+    ],
+    "country": "Algeria"
+  },
+  {
+    "web_pages": [
+      "https://cyu.fr"
+    ],
+    "name": "CY Cergy Paris University",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "cyu.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.mtu.ie/"
+    ],
+    "name": "Munster Technological University",
+    "alpha_two_code": "IE",
+    "state-province": null,
+    "domains": [
+      "mymtu.ie",
+      "mycit.ie"
+    ],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "https://www.gehu.ac.in/"
+    ],
+    "name": "Graphic Era Hill University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "gehu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.siet.ac.in/"
+    ],
+    "name": "Srishakthi",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srishakthi.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.tecsup.edu.pe/"
+    ],
+    "name": "TECSUP",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "tecsup.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "https://iit.tn"
+    ],
+    "name": "International Institute of Technology (IIT)",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "iit.ens.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://qcu.edu.ph/"
+    ],
+    "name": "Quezon City University",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "qcu.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://wsb.edu.pl/"
+    ],
+    "name": "Akademia Wyższej Szkoły Biznesu",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "student.wsb.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.lasallenoroeste.edu.mx/"
+    ],
+    "name": "Universidad La Salle Noroeste",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "lasallenoroeste.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.umary.edu/"
+    ],
+    "name": "University of Mary",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "umary.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.cafuc.edu.cn"
+    ],
+    "name": "Civil Aviation Flight University of China",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cafuc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.cupk.edu.cn/"
+    ],
+    "name": "China University of Petroleum at Karama",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "cupk.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://42yerevan.am/"
+    ],
+    "name": "42 School Yerevan",
+    "alpha_two_code": "AM",
+    "state-province": null,
+    "domains": [
+      "student.42yerevan.am"
+    ],
+    "country": "Armenia"
+  },
+  {
+    "web_pages": [
+      "https://www.esi.dz"
+    ],
+    "name": "Ecole nationale Supérieure d’Informatique ESI",
+    "alpha_two_code": "DZ",
+    "state-province": null,
+    "domains": [
+      "esi.dz"
+    ],
+    "country": "Algeria"
+  },
+  {
+    "web_pages": [
+      "https://celaya.tecnm.mx/"
+    ],
+    "name": "Instituto Tecnologico de Mexico en Celaya",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itcelaya.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://42lyon.fr/"
+    ],
+    "name": "42 Lyon Auvergne-Rhône-Alpes",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "42lyon.fr",
+      "student.42lyon.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.iberopuebla.mx/"
+    ],
+    "name": "Universidad Iberoamericana Puebla",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "iberopuebla.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.isimg.rnu.tn/"
+    ],
+    "name": "ISIM Gabes",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "isimg.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://cytech.cyu.fr/"
+    ],
+    "name": "CY Tech",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "cy-tech.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.minesparis.psl.eu/"
+    ],
+    "name": "École des Mines Paris - PSL",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etu.minesparis.psl.eu"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://bakircay.edu.tr/"
+    ],
+    "name": "Izmir Bakirçay University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "bakircay.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://apu.edu.my/"
+    ],
+    "name": "Asia Pacific University of Technology",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": [
+      "mail.apu.edu.my"
+    ],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": [
+      "https://www.cca.edu/"
+    ],
+    "name": "California College of the Arts",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cca.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://uniba.cm/"
+    ],
+    "name": "University of Bamenda",
+    "alpha_two_code": "CM",
+    "state-province": null,
+    "domains": [
+      "uniba.cm"
+    ],
+    "country": "Cameroon"
+  },
+  {
+    "web_pages": [
+      "https://www.uel.edu.vn/"
+    ],
+    "name": "University of Economics and Law",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "st.uel.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.uniecampus.it/"
+    ],
+    "name": "Ecampus university",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "studenti.uniecampus.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://mcast.edu.mt/"
+    ],
+    "name": "Malta College of Arts, Science and Technology",
+    "alpha_two_code": "MT",
+    "state-province": null,
+    "domains": [
+      "mcast.edu.mt"
+    ],
+    "country": "Malta"
+  },
+  {
+    "web_pages": [
+      "http://www.nxmu.edu.cn/"
+    ],
+    "name": "Ningxia Medical University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "nxmu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.pace.edu.in"
+    ],
+    "name": "PA College of Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "pace.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.sakec.ac.in"
+    ],
+    "name": "Shah and Anchor Kutchhi Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "sakec.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.dituniversity.edu.in/"
+    ],
+    "name": "DIT University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "dit.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.cukerala.ac.in/"
+    ],
+    "name": "Central University of Kerala",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "cukerala.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.psit.ac.in/"
+    ],
+    "name": "Pranveer Singh Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "psit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://website.robcol.k12.tr"
+    ],
+    "name": "Robert College",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "probcol.k12.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.vspj.cz"
+    ],
+    "name": "Vysoká škola polytechnická Jihlava",
+    "alpha_two_code": "CZ",
+    "state-province": null,
+    "domains": [
+      "student.vspj.cz"
+    ],
+    "country": "Czech Republic"
+  },
+  {
+    "web_pages": [
+      "https://www.udc.edu.br"
+    ],
+    "name": "UDC Centro Universitário",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "udc.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.rshu.edu.ua/"
+    ],
+    "name": "Rivne State University of the Humanities",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "rshu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.yu.ac.kr"
+    ],
+    "name": "Yeungnam University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "ynu.kr"
+    ],
+    "country": "Korea"
+  },
+  {
+    "web_pages": [
+      "https://www.bbbaden.ch/"
+    ],
+    "name": "Berufsfachschule BBB",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "stud.bbbaden.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "https://www.hftm.ch"
+    ],
+    "name": "HFTM",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "hftm.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "https://www.hfk-bremen.de/"
+    ],
+    "name": "Hochschule für Künste Bremen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hfk-bremen.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.uniremington.edu.co/"
+    ],
+    "name": "Corporación Universitaria Uniremington",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uniremington.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://dntu.edu.vn"
+    ],
+    "name": "Dong Nai Technology University",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "dntu.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.ostfalia.de"
+    ],
+    "name": "Ostfalia",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "ostfalia.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://kathford.edu.np/"
+    ],
+    "name": "Kathford International College of Engineering and Management",
+    "alpha_two_code": "NP",
+    "state-province": null,
+    "domains": [
+      "kathford.edu.np"
+    ],
+    "country": "Nepal"
+  },
+  {
+    "web_pages": [
+      "https://portal.ensem.ac.ma/"
+    ],
+    "name": "ENSEM",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "ensem.ac.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
+      "https://horyzont.eu"
+    ],
+    "name": "WWSIS Horyzont Wroclaw",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "horyzont.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://essths.rnu.tn"
+    ],
+    "name": "University of Sousse - ESSTHS",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "essths.u-sousse.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://www.dgcu.edu.cn/"
+    ],
+    "name": "Dongguan City University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "dgcu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.xynu.edu.cn/"
+    ],
+    "name": "Xinyang Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "xynu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.niit.edu.cn/"
+    ],
+    "name": "Nanjing Vocational University of Industry Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "niit.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.peihua.edu.cn/"
+    ],
+    "name": "Xi'an Peihua University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.peihua.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.teluq.ca"
+    ],
+    "name": "Université TÉLUQ",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "univ.teluq.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.fsb.rnu.tn/"
+    ],
+    "name": "Université de Carthage, Faculté de Science de Bizerte",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "fsb.u-carthage.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://42lausanne.ch/"
+    ],
+    "name": "42 Lausanne",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "student.42lausanne.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "https://www.kscr.de"
+    ],
+    "name": "Kaufmännische Schule Crailsheim",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "kscr.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://um6p.ma/fr"
+    ],
+    "name": "Mohammed VI Polytechnic University",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "emines.um6p.ma",
+      "um6p.ma"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.hult.edu"
+    ],
+    "name": "Hult International Business School",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "student.hult.edu"
+    ],
+    "country": "United States"
   }
 ]
