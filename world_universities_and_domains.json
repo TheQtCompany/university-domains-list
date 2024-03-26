@@ -11234,13 +11234,14 @@
   },
   {
     "web_pages": [
-      "http://www.tju.edu/"
+      "https://www.jefferson.edu"
     ],
     "name": "Thomas Jefferson University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "tju.edu"
+      "tju.edu",
+      "jefferson.edu"
     ],
     "country": "United States"
   },
@@ -30126,18 +30127,6 @@
     "state-province": null,
     "domains": [
       "njuts.cn"
-    ],
-    "country": "China"
-  },
-  {
-    "web_pages": [
-      "http://nku.nankai.edu.cn/"
-    ],
-    "name": "Nankai University",
-    "alpha_two_code": "CN",
-    "state-province": null,
-    "domains": [
-      "nku.nankai.edu.cn"
     ],
     "country": "China"
   },
@@ -76632,7 +76621,8 @@
     "alpha_two_code": "NZ",
     "state-province": null,
     "domains": [
-      "canterbury.ac.nz"
+      "canterbury.ac.nz",
+      "uclive.ac.nz"
     ],
     "country": "New Zealand"
   },
@@ -124954,7 +124944,9 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "mail.nankai.edu.cn"
+      "mail.nankai.edu.cn",
+      "nku.nankai.edu.cn",
+      "nankai.edu.cn"
     ],
     "country": "China"
   },
@@ -125993,7 +125985,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "stu.xpu.edu.cn"
+      "stu.xpu.edu.cn",
+      "xpu.edu.cn"
     ],
     "country": "China"
   },
@@ -131385,5 +131378,101 @@
       "mycit.ie"
     ],
     "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "https://www.gehu.ac.in/"
+    ],
+    "name": "Graphic Era Hill University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "gehu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.siet.ac.in/"
+    ],
+    "name": "Srishakthi",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srishakthi.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.tecsup.edu.pe/"
+    ],
+    "name": "TECSUP",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "tecsup.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "https://iit.tn"
+    ],
+    "name": "International Institute of Technology (IIT)",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "iit.ens.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://qcu.edu.ph/"
+    ],
+    "name": "Quezon City University",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "qcu.edu.ph"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://wsb.edu.pl/"
+    ],
+    "name": "Akademia Wyższej Szkoły Biznesu",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "student.wsb.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.lasallenoroeste.edu.mx/"
+    ],
+    "name": "Universidad La Salle Noroeste",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "lasallenoroeste.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.umary.edu/"
+    ],
+    "name": "University of Mary",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "umary.edu"
+    ],
+    "country": "United States"
   }
 ]
