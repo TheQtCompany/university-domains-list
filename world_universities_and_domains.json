@@ -26198,7 +26198,8 @@
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "tru.ca"
+      "tru.ca",
+      "mytru.ca"
     ],
     "country": "Canada"
   },
@@ -50448,7 +50449,8 @@
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "psgtech.edu"
+      "psgtech.edu",
+      "psgtech.ac.in"
     ],
     "country": "India"
   },
@@ -131943,5 +131945,126 @@
       "essths.u-sousse.tn"
     ],
     "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://www.dgcu.edu.cn/"
+    ],
+    "name": "Dongguan City University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "dgcu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.xynu.edu.cn/"
+    ],
+    "name": "Xinyang Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "xynu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.niit.edu.cn/"
+    ],
+    "name": "Nanjing Vocational University of Industry Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "niit.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.peihua.edu.cn/"
+    ],
+    "name": "Xi'an Peihua University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.peihua.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.teluq.ca"
+    ],
+    "name": "Universite Teluq",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "univ.teluq.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.fsb.rnu.tn/"
+    ],
+    "name": "Universite de Carthage, Faculte de Science de Bizerte",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "fsb.u-carthage.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://42lausanne.ch/"
+    ],
+    "name": "42 Lausanne",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "student.42lausanne.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "https://www.kscr.de"
+    ],
+    "name": "Kaufmännische Schule Crailsheim",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "kscr.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://um6p.ma/fr"
+    ],
+    "name": "Mohammed VI Polytechnic University",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "emines.um6p.ma",
+      "um6p.ma"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.hult.edu"
+    ],
+    "name": "Hult International Business School",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "student.hult.edu"
+    ],
+    "country": "United States"
   }
 ]
