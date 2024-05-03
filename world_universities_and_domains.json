@@ -28230,7 +28230,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "cqu.edu.cn"
+      "cqu.edu.cn",
+      "stu.cqu.edu.cn"
     ],
     "country": "China"
   },
@@ -33013,7 +33014,8 @@
     "alpha_two_code": "CO",
     "state-province": null,
     "domains": [
-      "umng.edu.co"
+      "umng.edu.co",
+      "unimilitar.edu.co"
     ],
     "country": "Colombia"
   },
@@ -58281,7 +58283,8 @@
     "alpha_two_code": "IT",
     "state-province": null,
     "domains": [
-      "unipv.it"
+      "unipv.it",
+      "universitadipavia.it"
     ],
     "country": "Italy"
   },
@@ -107815,7 +107818,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "sdmesa.edu"
+      "sdmesa.edu",
+      "student.sdccd.edu"
     ],
     "country": "United States"
   },
@@ -122040,7 +122044,8 @@
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": [
-      "pucpr.br"
+      "pucpr.br",
+      "pucpr.edu.br"
     ],
     "country": "Brazil"
   },
@@ -125955,7 +125960,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "stu.hutb.edu.cn"
+      "stu.hutb.edu.cn",
+      "hutb.edu.cn"
     ],
     "country": "China"
   },
