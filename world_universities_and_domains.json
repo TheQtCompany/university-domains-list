@@ -131810,5 +131810,246 @@
       "student.hult.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.bs-erlangen.de/"
+    ],
+    "name": "Erlangen State Vocational School",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "bs-erlangen.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.huas.edu.cn/"
+    ],
+    "name": "Hunan University of Arts and Science",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "huas.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.tyust.edu.cn/"
+    ],
+    "name": "TaiYuan University of Science and technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "tyust.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.lyun.edu.cn/"
+    ],
+    "name": "Longyan University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "lyun.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.wsyu.edu.cn/"
+    ],
+    "name": "Wuchang Shoyi University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "wsyu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://psnacet.edu.in/"
+    ],
+    "name": "PSNA College of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "psnacet.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.iiitbh.ac.in/"
+    ],
+    "name": "Indian Institute of Information Technology, Bhagalpur",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iiitbh.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.iiitsurat.ac.in/"
+    ],
+    "name": "Indian Institute of Information Technology, Surat",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iiitsurat.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://bvucoepune.edu.in/"
+    ],
+    "name": "Bharati Vidyapeeth Deemed University College of Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bvucoep.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.mepcoeng.ac.in/"
+    ],
+    "name": "Mepco Schlenk Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mepcoeng.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.unwsp.edu/"
+    ],
+    "name": "University of Northwestern, St. Paul",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "students.unwsp.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://kongu.ac.in/"
+    ],
+    "name": "Kongu Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "kongu.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.diderot.org/"
+    ],
+    "name": "Lycee Diderot",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "diderot.org"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.uncsa.edu/"
+    ],
+    "name": "University of North Carolina School of the Arts",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "diartist.uncsa.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.zanvarsity.ac.tz/"
+    ],
+    "name": "Zanzibar University",
+    "alpha_two_code": "TZ",
+    "state-province": null,
+    "domains": [
+      "zanvarsity.ac.tz"
+    ],
+    "country": "Tanzania"
+  },
+  {
+    "web_pages": [
+      "https://laprovidence-blois.fr/"
+    ],
+    "name": "Campus La Providence",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "laprovidence-blois.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.hogent.be/en/"
+    ],
+    "name": "Hogent",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "student.hogent.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.institutoptique.fr/"
+    ],
+    "name": "Institut d'Optique Graduate School",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "institutoptique.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://knutd.edu.ua/"
+    ],
+    "name": "Kyiv National University of Technologies and Design",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "knutd.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "http://hoasen.edu.vn"
+    ],
+    "name": "Hoa Sen University",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "hoasen.edu.vn",
+      "sinhvien.hoasen.edu.vn"
+    ],
+    "country": "Vietnam"
   }
 ]
