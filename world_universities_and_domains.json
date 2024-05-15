@@ -3687,7 +3687,7 @@
     "web_pages": [
       "http://www.csbsju.edu/"
     ],
-    "name": "COLLEGE OF SAINT BENEDICT & SAINT JOHN’S UNIVERSITY",
+    "name": "College of Saint Benedict & Saint John's University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
@@ -12626,18 +12626,6 @@
     "state-province": null,
     "domains": [
       "mrs.umn.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://twin-cities.umn.edu/"
-    ],
-    "name": "University of Minnesota - Twin Cities",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "umn.edu"
     ],
     "country": "United States"
   },
@@ -57125,18 +57113,6 @@
   },
   {
     "web_pages": [
-      "http://www.pul.it/"
-    ],
-    "name": "Pontificia Università Lateranense",
-    "alpha_two_code": "IT",
-    "state-province": null,
-    "domains": [
-      "pul.it"
-    ],
-    "country": "Italy"
-  },
-  {
-    "web_pages": [
       "http://www.pusc.it/"
     ],
     "name": "Pontificia Università della Santa Croce",
@@ -67666,19 +67642,6 @@
   },
   {
     "web_pages": [
-      "http://www.kwangju.ac.kr/"
-    ],
-    "name": "Kwangju University",
-    "alpha_two_code": "KR",
-    "state-province": null,
-    "domains": [
-      "kwangju.ac.kr",
-      "gwangju.ac.kr"
-    ],
-    "country": "Korea, Republic of"
-  },
-  {
-    "web_pages": [
       "http://www.kwangju-e.ac.kr/"
     ],
     "name": "Kwangju National University of Education",
@@ -72257,18 +72220,6 @@
   },
   {
     "web_pages": [
-      "http://www.utar.edu.my/"
-    ],
-    "name": "Universiti Tunku Abdul Rahman",
-    "alpha_two_code": "MY",
-    "state-province": null,
-    "domains": [
-      "utar.edu.my"
-    ],
-    "country": "Malaysia"
-  },
-  {
-    "web_pages": [
       "http://www.utem.edu.my/"
     ],
     "name": "Universiti Teknikal Malaysia Melaka",
@@ -72446,18 +72397,6 @@
       "um.edu.mt"
     ],
     "country": "Malta"
-  },
-  {
-    "web_pages": [
-      "http://www.univ-ag.fr/"
-    ],
-    "name": "Université des Antilles et de la Guyane",
-    "alpha_two_code": "MQ",
-    "state-province": null,
-    "domains": [
-      "univ-ag.fr"
-    ],
-    "country": "Martinique"
   },
   {
     "web_pages": [
@@ -75356,18 +75295,6 @@
       "tribhuvan-university.edu.np"
     ],
     "country": "Nepal"
-  },
-  {
-    "web_pages": [
-      "http://www.aucmed.edu/"
-    ],
-    "name": "American University of the Caribbean, Sint Maarten",
-    "alpha_two_code": "NL",
-    "state-province": null,
-    "domains": [
-      "aucmed.edu"
-    ],
-    "country": "Netherlands"
   },
   {
     "web_pages": [
@@ -122208,18 +122135,6 @@
   },
   {
     "web_pages": [
-      "https://www.utar.edu.my/"
-    ],
-    "name": "Universiti Tunku Abdul Rahman",
-    "alpha_two_code": "MY",
-    "state-province": null,
-    "domains": [
-      "utar.edu.my"
-    ],
-    "country": "Malaysia"
-  },
-  {
-    "web_pages": [
       "aau.at"
     ],
     "name": "University Klagenfurt",
@@ -122241,18 +122156,6 @@
       "univ-constantine2.dz"
     ],
     "country": "Algeria"
-  },
-  {
-    "web_pages": [
-      "https://www.uit.edu.vn/"
-    ],
-    "name": "University of Information Technology",
-    "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": [
-      "uit.edu.vn"
-    ],
-    "country": "Vietnam"
   },
   {
     "web_pages": [
