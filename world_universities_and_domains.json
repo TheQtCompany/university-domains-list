@@ -3687,7 +3687,7 @@
     "web_pages": [
       "http://www.csbsju.edu/"
     ],
-    "name": "College of Saint Benedict",
+    "name": "College of Saint Benedict & Saint John's University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
@@ -9624,18 +9624,6 @@
   },
   {
     "web_pages": [
-      "http://www.csbsju.edu/"
-    ],
-    "name": "Saint John's University (MN)",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "csbsju.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.stjohns.edu/"
     ],
     "name": "Saint John's University (NY)",
@@ -12638,18 +12626,6 @@
     "state-province": null,
     "domains": [
       "mrs.umn.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://twin-cities.umn.edu/"
-    ],
-    "name": "University of Minnesota - Twin Cities",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "umn.edu"
     ],
     "country": "United States"
   },
@@ -17035,18 +17011,6 @@
   },
   {
     "web_pages": [
-      "http://www.unlu.edu.ar/Belgrano.htm"
-    ],
-    "name": "Instituto Nacional de Educación Física \"General Manuel Belgrano\"",
-    "alpha_two_code": "AR",
-    "state-province": null,
-    "domains": [
-      "unlu.edu.ar"
-    ],
-    "country": "Argentina"
-  },
-  {
-    "web_pages": [
       "http://www.unlu.edu.ar/"
     ],
     "name": "Universidad Nacional de Luján",
@@ -20888,18 +20852,6 @@
   },
   {
     "web_pages": [
-      "http://www.ukc.ac.uk/international/bsis/"
-    ],
-    "name": "Brussels School of International Studies",
-    "alpha_two_code": "BE",
-    "state-province": null,
-    "domains": [
-      "ukc.ac.uk"
-    ],
-    "country": "Belgium"
-  },
-  {
-    "web_pages": [
       "http://www.ulb.ac.be/"
     ],
     "name": "Université Libre de Bruxelles",
@@ -24282,366 +24234,6 @@
     "state-province": null,
     "domains": [
       "itbmu.org.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/mtu/"
-    ],
-    "name": "Mandalay Technological University",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/maeu/"
-    ],
-    "name": "Myanmar Aerospace Engineering University",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/banmawtu/"
-    ],
-    "name": "Technological University (Banmaw)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/daweitu/"
-    ],
-    "name": "Technological University (Dawei)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/hinthadatu/"
-    ],
-    "name": "Technological University (Hinthada)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/hmawbitu/"
-    ],
-    "name": "Technological University (Hmawbi)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/hpaantu/"
-    ],
-    "name": "Technological University (Hpaan)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/kalaytu/"
-    ],
-    "name": "Technological University (Kalay)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/kyaingtongtu/"
-    ],
-    "name": "Technological University (Kyaing Tong)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/kyauksetu/"
-    ],
-    "name": "Technological University (Kyaukse)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/lashiotu/"
-    ],
-    "name": "Technological University (Lashio)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/loikawtu/"
-    ],
-    "name": "Technological University (Loikaw)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/magwaytu/"
-    ],
-    "name": "Technological University (Magway)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/mdytu/"
-    ],
-    "name": "Technological University (Mandalay)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/maubintu/"
-    ],
-    "name": "Technological University (Maubin)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/mawlamyaingtu/"
-    ],
-    "name": "Technological University (Mawlamyaing)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/meikhtilatu/"
-    ],
-    "name": "Technological University (Meikhtila)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/monywatu/"
-    ],
-    "name": "Technological University (Monywa)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/myeiktu/"
-    ],
-    "name": "Technological University (Myeik)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/myitkyinatu/"
-    ],
-    "name": "Technological University (Myitkyina)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/pakokkutu/"
-    ],
-    "name": "Technological University (Pakokku)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/patheintu/"
-    ],
-    "name": "Technological University (Pathein)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/pinlontu/"
-    ],
-    "name": "Technological University (Pinlon)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/ptu/"
-    ],
-    "name": "Technological University (Pyay)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/sittwetu/"
-    ],
-    "name": "Technological University (Sittwe)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/taunggyitu/"
-    ],
-    "name": "Technological University (Taunggyi)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/taungootu/"
-    ],
-    "name": "Technological University (Taungoo)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/thanlyintu/"
-    ],
-    "name": "Technological University (Thanlyin)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/wytu/"
-    ],
-    "name": "Technological University (West Yangon)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
-    ],
-    "country": "Myanmar"
-  },
-  {
-    "web_pages": [
-      "http://www.most.gov.mm/ytu/"
-    ],
-    "name": "Technological University (Yangon)",
-    "alpha_two_code": "MM",
-    "state-province": null,
-    "domains": [
-      "most.gov.mm"
     ],
     "country": "Myanmar"
   },
@@ -29225,18 +28817,6 @@
       "http://www.hhu.edu.cn/"
     ],
     "name": "Hehai University",
-    "alpha_two_code": "CN",
-    "state-province": null,
-    "domains": [
-      "hhu.edu.cn"
-    ],
-    "country": "China"
-  },
-  {
-    "web_pages": [
-      "http://www.hhu.edu.cn/"
-    ],
-    "name": "Huaihua University",
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
@@ -35511,18 +35091,6 @@
   },
   {
     "web_pages": [
-      "http://www.ufhec.edu.do/"
-    ],
-    "name": "Universidad Ulises Francisco Espaillat",
-    "alpha_two_code": "DO",
-    "state-province": null,
-    "domains": [
-      "ufhec.edu.do"
-    ],
-    "country": "Dominican Republic"
-  },
-  {
-    "web_pages": [
       "http://www.unad.edu.do/"
     ],
     "name": "Universidad Adventista Dominicana",
@@ -38025,18 +37593,6 @@
   },
   {
     "web_pages": [
-      "http://agro.roazhon.inra.fr/etab/insfa/accueil.htm"
-    ],
-    "name": "Institut National Supérieur de Formation Agro-Alimentaire",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "agro.roazhon.inra.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
       "http://www.agrosupdijon.fr/"
     ],
     "name": "AgroSup Dijon",
@@ -39578,19 +39134,7 @@
   },
   {
     "web_pages": [
-      "http://www.inp-fc.fr/~ensigc/"
-    ],
-    "name": "Ecole Nationale Supérieure d'Ingénieurs de Génie Chimique",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "inp-fc.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www.inp-fc.fr/"
+      "https://formation-continue.inp-toulouse.fr/fr/index.html"
     ],
     "name": "Institut National Polytechnique de Toulouse",
     "alpha_two_code": "FR",
@@ -40840,21 +40384,9 @@
   },
   {
     "web_pages": [
-      "http://www.univ-valenciennes.fr/ensimev/"
+      "https://www.uphf.fr"
     ],
-    "name": "Ecole Nationale Supérieure d'Ingénieurs en Mécanique et Energétique de Valenciennes",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "univ-valenciennes.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www.univ-valenciennes.fr/"
-    ],
-    "name": "Université de Valenciennes et du Hainaut-Cambrésis",
+    "name": "Université Polytechnique Hauts-de-France",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
@@ -41184,18 +40716,6 @@
   },
   {
     "web_pages": [
-      "http://www.esme.fr/"
-    ],
-    "name": "ESME Sudria",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "esme.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
       "http://www.supbiotech.fr/"
     ],
     "name": "Institut Sup'Biotech de Paris",
@@ -41448,18 +40968,6 @@
   },
   {
     "web_pages": [
-      "http://www.akad.de/"
-    ],
-    "name": "Hochschule für Berufstätige Rendsburg",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "akad.de"
-    ],
-    "country": "Germany"
-  },
-  {
-    "web_pages": [
       "http://www.asfh-berlin.de/"
     ],
     "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
@@ -41547,18 +41055,6 @@
       "http://www.diploma.de/"
     ],
     "name": "DIPLOMA-Fachhochschule Ölsnitz/Vogtland",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "diploma.de"
-    ],
-    "country": "Germany"
-  },
-  {
-    "web_pages": [
-      "http://www.diploma.de/"
-    ],
-    "name": "Fachhochschule Nordhessen",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
@@ -44233,18 +43729,6 @@
   },
   {
     "web_pages": [
-      "http://www.uni-erfurt.de/phil-theol/"
-    ],
-    "name": "Philosophisch-Theologisches Studium Erfurt, Staatlich anerkannte Wissenschaftliche Hochschule",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "uni-erfurt.de"
-    ],
-    "country": "Germany"
-  },
-  {
-    "web_pages": [
       "http://www.uni-erfurt.de/"
     ],
     "name": "Universität Erfurt",
@@ -44852,18 +44336,6 @@
   },
   {
     "web_pages": [
-      "http://www.uni-wuppertal.de/inst/kiho/"
-    ],
-    "name": "Kirchliche Hochschule Wuppertal",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "uni-wuppertal.de"
-    ],
-    "country": "Germany"
-  },
-  {
-    "web_pages": [
       "http://www.whu-koblenz.de/"
     ],
     "name": "Wissenschaftliche Hochschule für Unternehmensführung, Otto-Beisheim Hochschule",
@@ -45327,18 +44799,6 @@
     "state-province": null,
     "domains": [
       "eap.gr"
-    ],
-    "country": "Greece"
-  },
-  {
-    "web_pages": [
-      "http://www.euruni.edu/"
-    ],
-    "name": "European University, Athens Campus",
-    "alpha_two_code": "GR",
-    "state-province": null,
-    "domains": [
-      "euruni.edu"
     ],
     "country": "Greece"
   },
@@ -45809,30 +45269,6 @@
       "sgu.edu"
     ],
     "country": "Grenada"
-  },
-  {
-    "web_pages": [
-      "http://www.univ-ag.fr/"
-    ],
-    "name": "Université des Antilles et de la Guyane",
-    "alpha_two_code": "GP",
-    "state-province": null,
-    "domains": [
-      "univ-ag.fr"
-    ],
-    "country": "Guadeloupe"
-  },
-  {
-    "web_pages": [
-      "http://www.uog.edu/"
-    ],
-    "name": "University of Guam",
-    "alpha_two_code": "GU",
-    "state-province": null,
-    "domains": [
-      "uog.edu"
-    ],
-    "country": "Guam"
   },
   {
     "web_pages": [
@@ -49209,21 +48645,9 @@
   },
   {
     "web_pages": [
-      "http://www.kanpuruniversity.org/"
+      "https://csjmu.ac.in/"
     ],
     "name": "Chhatrapati Shahu Ji Maharaj University",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "kanpuruniversity.org"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "http://www.kanpuruniversity.org/"
-    ],
-    "name": "Kanpur University",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
@@ -49573,18 +48997,6 @@
       "http://www.mcu.ac.in/"
     ],
     "name": "Makanlal Chutur Vedi University",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "mcu.ac.in"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "http://www.mcu.ac.in/"
-    ],
-    "name": "Makhanlal Chaturvedi National University of Journalism and Communication",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
@@ -51267,42 +50679,6 @@
       "http://www.tnuniv.ac.in/adu/"
     ],
     "name": "Avinashilingam Institute for Home Science and Higher Education for Women",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "tnuniv.ac.in"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "http://www.tnuniv.ac.in/gri/"
-    ],
-    "name": "Gandhigram Rural Institute",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "tnuniv.ac.in"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "http://www.tnuniv.ac.in/msu/"
-    ],
-    "name": "Manonmaniam Sundaranar University",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "tnuniv.ac.in"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "http://www.tnuniv.ac.in/mteresa/"
-    ],
-    "name": "Mother Teresa Women's University",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
@@ -56908,7 +56284,7 @@
     "web_pages": [
       "http://www.yu.edu.jo/"
     ],
-    "name": "Al Yarmouk University College",
+    "name": "Yarmouk University",
     "alpha_two_code": "IQ",
     "state-province": null,
     "domains": [
@@ -57688,18 +57064,6 @@
   },
   {
     "web_pages": [
-      "http://www.nyuniversity.net/"
-    ],
-    "name": "Yorker International University, Milano",
-    "alpha_two_code": "IT",
-    "state-province": null,
-    "domains": [
-      "nyuniversity.net"
-    ],
-    "country": "Italy"
-  },
-  {
-    "web_pages": [
       "http://www.pio.urbe.it/"
     ],
     "name": "Pontificio Istituto Orientale",
@@ -57744,18 +57108,6 @@
     "state-province": null,
     "domains": [
       "polito.it"
-    ],
-    "country": "Italy"
-  },
-  {
-    "web_pages": [
-      "http://www.pul.it/"
-    ],
-    "name": "Pontificia Università Lateranense",
-    "alpha_two_code": "IT",
-    "state-province": null,
-    "domains": [
-      "pul.it"
     ],
     "country": "Italy"
   },
@@ -65719,18 +65071,6 @@
   },
   {
     "web_pages": [
-      "http://www.yu.edu.jo/"
-    ],
-    "name": "Yarmouk University",
-    "alpha_two_code": "JO",
-    "state-province": null,
-    "domains": [
-      "yu.edu.jo"
-    ],
-    "country": "Jordan"
-  },
-  {
-    "web_pages": [
       "http://www.zpu.edu.jo/"
     ],
     "name": "Zarka Private University",
@@ -68297,19 +67637,6 @@
     "state-province": null,
     "domains": [
       "kwandong.ac.kr"
-    ],
-    "country": "Korea, Republic of"
-  },
-  {
-    "web_pages": [
-      "http://www.kwangju.ac.kr/"
-    ],
-    "name": "Kwangju University",
-    "alpha_two_code": "KR",
-    "state-province": null,
-    "domains": [
-      "kwangju.ac.kr",
-      "gwangju.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -72893,18 +72220,6 @@
   },
   {
     "web_pages": [
-      "http://www.utar.edu.my/"
-    ],
-    "name": "Universiti Tunku Abdul Rahman",
-    "alpha_two_code": "MY",
-    "state-province": null,
-    "domains": [
-      "utar.edu.my"
-    ],
-    "country": "Malaysia"
-  },
-  {
-    "web_pages": [
       "http://www.utem.edu.my/"
     ],
     "name": "Universiti Teknikal Malaysia Melaka",
@@ -73082,18 +72397,6 @@
       "um.edu.mt"
     ],
     "country": "Malta"
-  },
-  {
-    "web_pages": [
-      "http://www.univ-ag.fr/"
-    ],
-    "name": "Université des Antilles et de la Guyane",
-    "alpha_two_code": "MQ",
-    "state-province": null,
-    "domains": [
-      "univ-ag.fr"
-    ],
-    "country": "Martinique"
   },
   {
     "web_pages": [
@@ -75992,18 +75295,6 @@
       "tribhuvan-university.edu.np"
     ],
     "country": "Nepal"
-  },
-  {
-    "web_pages": [
-      "http://www.aucmed.edu/"
-    ],
-    "name": "American University of the Caribbean, Sint Maarten",
-    "alpha_two_code": "NL",
-    "state-province": null,
-    "domains": [
-      "aucmed.edu"
-    ],
-    "country": "Netherlands"
   },
   {
     "web_pages": [
@@ -79293,7 +78584,7 @@
     "web_pages": [
       "http://www.indus.edu.pk/"
     ],
-    "name": "Indus Institute of Higher Education",
+    "name": "Indus University",
     "alpha_two_code": "PK",
     "state-province": null,
     "domains": [
@@ -79587,18 +78878,6 @@
     "state-province": "Sindh",
     "domains": [
       "smiu.edu.pk"
-    ],
-    "country": "Pakistan"
-  },
-  {
-    "web_pages": [
-      "https://www.indus.edu.pk/"
-    ],
-    "name": "Indus University",
-    "alpha_two_code": "PK",
-    "state-province": "Sindh",
-    "domains": [
-      "indus.edu.pk"
     ],
     "country": "Pakistan"
   },
@@ -82582,21 +81861,9 @@
   },
   {
     "web_pages": [
-      "http://www.ue.edu.ph/caloocan/"
+      "http://www.ue.edu.ph/"
     ],
-    "name": "University of the East, Coloocan",
-    "alpha_two_code": "PH",
-    "state-province": "National Capital Region",
-    "domains": [
-      "ue.edu.ph"
-    ],
-    "country": "Philippines"
-  },
-  {
-    "web_pages": [
-      "http://www.ue.edu.ph/manila/"
-    ],
-    "name": "University of the East, Manila",
+    "name": "University of the East",
     "alpha_two_code": "PH",
     "state-province": "National Capital Region",
     "domains": [
@@ -83033,30 +82300,6 @@
     "state-province": "Western Visayas",
     "domains": [
       "wvsu.edu.ph"
-    ],
-    "country": "Philippines"
-  },
-  {
-    "web_pages": [
-      "http://www2.mozcom.com/~clsu/"
-    ],
-    "name": "Central Luzon State University",
-    "alpha_two_code": "PH",
-    "state-province": "Central Luzon",
-    "domains": [
-      "www2.mozcom.com"
-    ],
-    "country": "Philippines"
-  },
-  {
-    "web_pages": [
-      "http://www2.mozcom.com/~tsu-ics/"
-    ],
-    "name": "Tarlac State University",
-    "alpha_two_code": "PH",
-    "state-province": "Central Luzon",
-    "domains": [
-      "www2.mozcom.com"
     ],
     "country": "Philippines"
   },
@@ -85509,30 +84752,6 @@
   },
   {
     "web_pages": [
-      "http://www.suagm.edu/"
-    ],
-    "name": "Sistema Universitario Ana G. Méndez",
-    "alpha_two_code": "PR",
-    "state-province": null,
-    "domains": [
-      "suagm.edu"
-    ],
-    "country": "Puerto Rico"
-  },
-  {
-    "web_pages": [
-      "http://www.suagm.edu/suagm/umet/"
-    ],
-    "name": "Universidad Metropolitana",
-    "alpha_two_code": "PR",
-    "state-province": null,
-    "domains": [
-      "suagm.edu"
-    ],
-    "country": "Puerto Rico"
-  },
-  {
-    "web_pages": [
       "http://www.ucb.edu.pr/"
     ],
     "name": "Universidad Central de Bayamón",
@@ -86316,19 +85535,7 @@
     "web_pages": [
       "http://www.usab-tm.ro/"
     ],
-    "name": "Banat's University of Agricultural Sciences",
-    "alpha_two_code": "RO",
-    "state-province": null,
-    "domains": [
-      "usab-tm.ro"
-    ],
-    "country": "Romania"
-  },
-  {
-    "web_pages": [
-      "http://www.usab-tm.ro/"
-    ],
-    "name": "University of Agriculture and Veterinary Medicine Timisoara",
+    "name": "University of Agricultural Sciences and Veterinary Medicine of Banat in Timisoara",
     "alpha_two_code": "RO",
     "state-province": null,
     "domains": [
@@ -104428,8 +103635,7 @@
     "alpha_two_code": "VN",
     "state-province": null,
     "domains": [
-      "vnuhcm.edu.vn",
-      "student.hcmus.edu.vn"
+      "vnuhcm.edu.vn"
     ],
     "country": "Vietnam"
   },
@@ -107632,18 +106838,6 @@
   },
   {
     "web_pages": [
-      "http://www.rcc.edu/norco/index.cfm"
-    ],
-    "name": "Norco College",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "rcc.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.ohlone.edu"
     ],
     "name": "Ohlone College",
@@ -107752,7 +106946,7 @@
   },
   {
     "web_pages": [
-      "http://www.rcc.edu/riverside/"
+      "https://www.rcc.edu"
     ],
     "name": "Riverside City College",
     "alpha_two_code": "US",
@@ -108413,33 +107607,9 @@
   },
   {
     "web_pages": [
-      "https://www.dtcc.edu/our-campuses/georgetown"
+      "https://www.dtcc.edu"
     ],
-    "name": "Delaware Technical Community College-Owens",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "dtcc.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "https://www.dtcc.edu/our-campuses/wilmington"
-    ],
-    "name": "Delaware Technical Community College-Stanton/Wilmington",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "dtcc.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "https://www.dtcc.edu/our-campuses/dover"
-    ],
-    "name": "Delaware Technical Community College-Terry",
+    "name": "Delaware Technical Community College",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
@@ -122965,18 +122135,6 @@
   },
   {
     "web_pages": [
-      "https://www.utar.edu.my/"
-    ],
-    "name": "Universiti Tunku Abdul Rahman",
-    "alpha_two_code": "MY",
-    "state-province": null,
-    "domains": [
-      "utar.edu.my"
-    ],
-    "country": "Malaysia"
-  },
-  {
-    "web_pages": [
       "aau.at"
     ],
     "name": "University Klagenfurt",
@@ -122998,18 +122156,6 @@
       "univ-constantine2.dz"
     ],
     "country": "Algeria"
-  },
-  {
-    "web_pages": [
-      "https://www.uit.edu.vn/"
-    ],
-    "name": "University of Information Technology",
-    "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": [
-      "uit.edu.vn"
-    ],
-    "country": "Vietnam"
   },
   {
     "web_pages": [
