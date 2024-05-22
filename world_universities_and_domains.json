@@ -33891,7 +33891,8 @@
     "alpha_two_code": "CU",
     "state-province": null,
     "domains": [
-      "uclv.edu.cu"
+      "uclv.edu.cu",
+      "uclv.cu"
     ],
     "country": "Cuba"
   },
@@ -124334,7 +124335,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "stmail.ujs.edu.cn"
+      "stmail.ujs.edu.cn",
+      "ujs.edu.cn"
     ],
     "country": "China"
   },
@@ -131197,5 +131199,173 @@
       "sinhvien.hoasen.edu.vn"
     ],
     "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.tynu.edu.cn/"
+    ],
+    "name": "Taiyuan Normal University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.tynu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.qau.edu.cn/"
+    ],
+    "name": "Qingdao Agricultural University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.qau.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "abes.ac.in"
+    ],
+    "name": "ABES Engineering College",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "abes.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://mitsgwalior.in/"
+    ],
+    "name": "Madhav Institute Of Science and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mitsgwl.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.sinhgad.edu/"
+    ],
+    "name": "Sinhgad Institutes",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "sinhgad.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.mallareddyuniversity.ac.in/"
+    ],
+    "name": "Malla Reddy University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mallareddyuniversity.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.coeptech.ac.in/"
+    ],
+    "name": "COEP Technological University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "coeptech.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://rmkcet.ac.in/"
+    ],
+    "name": "RMKCET",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "rmkcet.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www2.ifam.edu.br"
+    ],
+    "name": "Instituto Federal do Amazonas",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ifam.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.misd.org/"
+    ],
+    "name": "Montgomery Independent School District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "student.misd.org"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://hub.edu.vn/"
+    ],
+    "name": "Ho Chi Minh University of Banking",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "hub.edu.vn"
+    ],
+    "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.sp.edu.sg/"
+    ],
+    "name": "Singapore Polytechnic",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "ichat.sp.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.bellecour.fr/"
+    ],
+    "name": "Bellecour Ecole",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "stu-bellecour.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.uce.edu.ec"
+    ],
+    "name": "Universidad Central del Ecuador",
+    "alpha_two_code": "EC",
+    "state-province": null,
+    "domains": [
+      "uce.edu.ec"
+    ],
+    "country": "Ecuador"
   }
 ]
