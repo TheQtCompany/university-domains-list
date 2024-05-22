@@ -37217,18 +37217,6 @@
   },
   {
     "web_pages": [
-      "http://www.joensuu.fi/"
-    ],
-    "name": "University of Joensuu",
-    "alpha_two_code": "FI",
-    "state-province": null,
-    "domains": [
-      "joensuu.fi"
-    ],
-    "country": "Finland"
-  },
-  {
-    "web_pages": [
       "http://www.jyu.fi/"
     ],
     "name": "University of Jyväskylä",
@@ -45327,7 +45315,8 @@
     "alpha_two_code": "GT",
     "state-province": null,
     "domains": [
-      "umg.edu.gt"
+      "umg.edu.gt",
+      "miumg.edu.gt"
     ],
     "country": "Guatemala"
   },
@@ -128081,7 +128070,8 @@
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "student.wroclaw.merito.pl"
+      "student.wroclaw.merito.pl",
+      "student.chorzow.merito.pl"
     ],
     "country": "Poland"
   },
@@ -130714,7 +130704,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "ynu.kr"
+      "ynu.kr",
+      "ynu.ac.kr"
     ],
     "country": "Korea"
   },
@@ -131367,5 +131358,221 @@
       "uce.edu.ec"
     ],
     "country": "Ecuador"
+  },
+  {
+    "web_pages": [
+      "https://www.ppsuc.edu.cn/"
+    ],
+    "name": "People's Public Security University of China",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "ppsuc.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://ssmiet.ac.in/"
+    ],
+    "name": "SSM Institute of Engineering and Technology, Dindigul",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ssmiet.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://iitj.ac.in/"
+    ],
+    "name": "Indian Institute Technology(IIt) Jodhpur",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iitj.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://vcet.edu.in/"
+    ],
+    "name": "Vidyavardhini's College of Engineering and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vcet.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.ipchile.cl/"
+    ],
+    "name": "Ipchile, Instituto Professional de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "edu.ipchile.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.ltu.se/"
+    ],
+    "name": "Lulea University of Technology",
+    "alpha_two_code": "SE",
+    "state-province": null,
+    "domains": [
+      "ltu.se"
+    ],
+    "country": "Sweden"
+  },
+  {
+    "web_pages": [
+      "https://www.uef.fi/en"
+    ],
+    "name": "The University of Eastern Finland (UEF)",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "uef.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "https://www.42heilbronn.de/en/"
+    ],
+    "name": "42Heilbronn",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "student.42heilbronn.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://kedge.edu/"
+    ],
+    "name": "Kedge Business School",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "kedgebs.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://eurecom.fr/"
+    ],
+    "name": "EURECOM",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "eurecom.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://ciisa.cl/"
+    ],
+    "name": "Instituto Profesional Ciisa",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ciisa.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.alcestergs.co.uk/"
+    ],
+    "name": "Alcester Grammar School",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "alcestergs.com"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.upq.mx/"
+    ],
+    "name": "Universidad Politecnica de Queretaro",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "upq.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.juventus.ch"
+    ],
+    "name": "Juventus Technikerschule",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "juventus.schule"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "https://www.paneurouni.com/"
+    ],
+    "name": "Paneuropska Vysoka Skola",
+    "alpha_two_code": "SK",
+    "state-province": null,
+    "domains": [
+      "paneurouni.com"
+    ],
+    "country": "Slovakia"
+  },
+  {
+    "web_pages": [
+      "https://www.fhstp.ac.at/"
+    ],
+    "name": "St. Poelten University of Applied Sciences",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "fhstp.ac.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://www.salesianssarria.com/en/"
+    ],
+    "name": "Salesians Sarria - Barcelona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "sarria.salesians.cat"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.ucl.br/"
+    ],
+    "name": "UCL - Faculdade do Centro Leste",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "https://www.ucl.br/"
+    ],
+    "country": "Brazil"
   }
 ]
