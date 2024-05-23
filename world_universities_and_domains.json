@@ -31069,7 +31069,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "ustb.edu.cn"
+      "ustb.edu.cn",
+      "xs.ustb.edu.cn"
     ],
     "country": "China"
   },
@@ -31273,7 +31274,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "wzu.edu.cn"
+      "wzu.edu.cn",
+      "stu.wzu.edu.cn"
     ],
     "country": "China"
   },
@@ -126542,7 +126544,8 @@
     "alpha_two_code": "EG",
     "state-province": null,
     "domains": [
-      "stud.fci-cu.edu.eg"
+      "stud.fci-cu.edu.eg",
+      "eng-st.cu.edu.eg"
     ],
     "country": "Egypt"
   },
@@ -130114,7 +130117,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "stu.hzcu.edu.cn"
+      "stu.hzcu.edu.cn",
+      "hzcu.edu.cn"
     ],
     "country": "China"
   },
@@ -131574,5 +131578,221 @@
       "ucl.br"
     ],
     "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.dhw.ac.jp/"
+    ],
+    "name": "Digital Hollywood University",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": [
+      "dhw.ac.jp"
+    ],
+    "country": "Japan"
+  },
+  {
+    "web_pages": [
+      "https://www.zjxu.edu.cn/"
+    ],
+    "name": "Jiaxing University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "zjxu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.gxmzu.edu.cn/"
+    ],
+    "name": "Guangxi Minzu University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "stu.gxmzu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.hsu.edu.cn/"
+    ],
+    "name": "HuangShan University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "hsu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.santhigiricollege.ac.in"
+    ],
+    "name": "Santhigiri College of Computer Sciences",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "santhigiricollege.com"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://bits-pilani-wilp.ac.in/"
+    ],
+    "name": "BITS Pilani",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "wilp.bits-pilani.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.cumminscollege.org/"
+    ],
+    "name": "Cummins College of Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "cumminscollege.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://iare.ac.in/"
+    ],
+    "name": "Institute of Aeronautical Engineering",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "iare.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.bnmit.org/"
+    ],
+    "name": "BNM Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bnmit.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://bbdniit.ac.in/"
+    ],
+    "name": "Babu Banarasi Das Northern India Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bbdniit.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://ecole-ipssi.com/"
+    ],
+    "name": "IPSSI",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ecole-ipssi.net"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.xamk.fi/en/"
+    ],
+    "name": "South-Eastern Finland University of Applied Sciences, Xamk",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "edu.xamk.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "https://www.southmetrotafe.wa.edu.au/"
+    ],
+    "name": "South Metropolitan Tafe",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "tafe.wa.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.masters.edu/"
+    ],
+    "name": "The Master's University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "masters.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.universityofgalway.ie/"
+    ],
+    "name": "University of Galway",
+    "alpha_two_code": "IE",
+    "state-province": null,
+    "domains": [
+      "universityofgalway.ie"
+    ],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": [
+      "https://www.questforeducationandarts.com"
+    ],
+    "name": "Quest for Education and the Arts",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "questforeducationandarts.com"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://kfueit.edu.pk/"
+    ],
+    "name": "Khwaja Fareed University of Engineering & Information Technology (KFUEIT)",
+    "alpha_two_code": "PK",
+    "state-province": null,
+    "domains": [
+      "kfueit.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://umg.edu.pl/"
+    ],
+    "name": "Gdynia Maritime University",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "student.umg.edu.pl"
+    ],
+    "country": "Poland"
   }
 ]
