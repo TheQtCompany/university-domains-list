@@ -49918,7 +49918,8 @@
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "punjabiuniversity.ac.in"
+      "punjabiuniversity.ac.in",
+      "pbi.ac.in"
     ],
     "country": "India"
   },
@@ -73172,7 +73173,8 @@
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": [
-      "uadec.mx"
+      "uadec.mx",
+      "uadec.edu.mx"
     ],
     "country": "Mexico"
   },
@@ -123640,7 +123642,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "stu.jiangnan.edu.cn"
+      "stu.jiangnan.edu.cn",
+      "jiangnan.edu.cn"
     ],
     "country": "China"
   },
@@ -124208,7 +124211,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "stu.csust.edu.cn"
+      "stu.csust.edu.cn",
+      "csust.edu.cn"
     ],
     "country": "China"
   },
@@ -127704,7 +127708,8 @@
     "alpha_two_code": "LT",
     "state-province": null,
     "domains": [
-      "ad.viko.lt"
+      "ad.viko.lt",
+      "stud.viko.lt"
     ],
     "country": "Lithuania"
   },
@@ -131075,5 +131080,209 @@
       "floridauniversitaria.es"
     ],
     "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.usx.edu.cn/"
+    ],
+    "name": "ShaoXing University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "usx.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://ritindia.edu/ritwebsite/website/index.php"
+    ],
+    "name": "Rajarambapu Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ritindia.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://cmrcet.ac.in/"
+    ],
+    "name": "CMR College of Engineering & Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "cmrcet.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://bitmesra.ac.in/bit"
+    ],
+    "name": "Birla Institute Of Technology, Mesra",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "bitmesra.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://kcgcollege.ac.in/"
+    ],
+    "name": "KCG college of technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "kcgcollege.com"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://pb.edu.pl/"
+    ],
+    "name": "Bialystok University of Technology",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "student.pb.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://wou.edu"
+    ],
+    "name": "Western Oregon University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wou.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://rptu.de"
+    ],
+    "name": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "rptu.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-nb.de/"
+    ],
+    "name": "Hochschule Neubrandenburg University of Applied Science",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hs-nb.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.unir.net/"
+    ],
+    "name": "UNIR",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "comunidadunir.net"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://bws-hofheim.de/"
+    ],
+    "name": "Brühlwiesenschule Hofheim",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "bws-hofheim.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.eelu.edu.eg/"
+    ],
+    "name": "Egyptian E-Learning University",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+      "student.eelu.edu.eg"
+    ],
+    "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "https://www.itis.pr.it/"
+    ],
+    "name": "Itis Leonardo da Vinci",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "itis.pr.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://sfcollege.edu/"
+    ],
+    "name": "Santa Fe College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "sfcollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.pradita.ac.id/"
+    ],
+    "name": "Pradita University",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "pradita.ac.id"
+    ],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://chdtu.edu.ua/"
+    ],
+    "name": "Cherkask State Technological University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "chdtu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
+      "https://www.plmun.edu.ph/"
+    ],
+    "name": "Pamantasan Ng Lungsod Ng Muntinlupa",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "plmun.edu.ph"
+    ],
+    "country": "Philippines"
   }
 ]
