@@ -30637,7 +30637,8 @@
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": [
-      "swpu.edu.cn"
+      "swpu.edu.cn",
+      "stu.swpu.edu.cn"
     ],
     "country": "China"
   },
@@ -118214,7 +118215,8 @@
     "alpha_two_code": "NZ",
     "state-province": null,
     "domains": [
-      "yoobee.ac.nz"
+      "yoobee.ac.nz",
+      "yoobeecolleges.com"
     ],
     "country": "New Zealand"
   },
@@ -131284,5 +131286,125 @@
       "plmun.edu.ph"
     ],
     "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://u-paris.fr/"
+    ],
+    "name": "Université Paris Cité",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etu.u-paris.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.szpu.edu.cn/"
+    ],
+    "name": "Shenzhen polytechnic university",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "mail.szpt.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.insa-toulouse.fr/"
+    ],
+    "name": "INSA Toulouse",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "insa-toulouse.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://uz.zgora.pl/"
+    ],
+    "name": "University of Zielona Góra",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "g.elearn.uz.zgora.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "https://www.esen.tn/portail/"
+    ],
+    "name": "ESEN- L'Ecole Supérieure de l'Economie Numérique",
+    "alpha_two_code": "TN",
+    "state-province": null,
+    "domains": [
+      "esen.tn"
+    ],
+    "country": "Tunisia"
+  },
+  {
+    "web_pages": [
+      "https://rodabogota.edu.co/"
+    ],
+    "name": "RODA -  Colegio Religiosas Oblatas al Divino Amor",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "rodabogota.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://tartous-univ.edu.sy"
+    ],
+    "name": "University of Tartous",
+    "alpha_two_code": "SY",
+    "state-province": null,
+    "domains": [
+      "tartous-univ.edu.sy"
+    ],
+    "country": "Syria"
+  },
+  {
+    "web_pages": [
+      "https://khec.edu.np/"
+    ],
+    "name": "Khwopa Engineering College",
+    "alpha_two_code": "NP",
+    "state-province": null,
+    "domains": [
+      "khec.edu.np"
+    ],
+    "country": "Nepal"
+  },
+  {
+    "web_pages": [
+      "https://www.santannapisa.it"
+    ],
+    "name": "Scuola Superiore Sant'Anna",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "santannapisa.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://www.bisd.us/"
+    ],
+    "name": "Brownsville Independent School District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bisd.us"
+    ],
+    "country": "United States"
   }
 ]
